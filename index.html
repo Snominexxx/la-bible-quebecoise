@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Bible Québécoise</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+    <main>
+        <div class="logo">
+            <h1>La Bible Québécoise</h1>
+            <p class="tagline">Le dictionnaire des québécismes</p>
+        </div>
+
+        <div class="search-container">
+            <div class="search-box">
+                <svg class="search-icon" viewBox="0 0 24 24">
+                    <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+                </svg>
+                <input type="text" id="searchInput" placeholder="Rechercher un mot, une expression..." onkeypress="handleKeyPress(event)">
+            </div>
+        </div>
+
+        <div class="buttons">
+            <button onclick="search()">Rechercher</button>
+            <button onclick="randomWord()">J'ai de la chance</button>
+        </div>
+
+        <!-- Results Section -->
+        <div id="results" class="results-container hidden">
+            <div class="result-card">
+                <div class="result-word" id="resultWord"></div>
+                <div class="result-type" id="resultType"></div>
+                <div class="result-section">
+                    <h3>📖 Définition</h3>
+                    <p id="resultDefinition"></p>
+                </div>
+                <div class="result-section">
+                    <h3>💡 Signification</h3>
+                    <p id="resultMeaning"></p>
+                </div>
+                <div class="result-section">
+                    <h3>🎯 Contexte d'utilisation</h3>
+                    <p id="resultContext"></p>
+                </div>
+                <div class="result-section">
+                    <h3>💬 Exemple</h3>
+                    <p class="example" id="resultExample"></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- No Results -->
+        <div id="noResults" class="no-results hidden">
+            <p>😕 Aucun résultat trouvé pour "<span id="searchTerm"></span>"</p>
+            <p>Essayez un autre mot ou expression québécoise!</p>
+        </div>
+    </main>
+
+    <footer>
+        <span>Québec 🍁</span>
+    </footer>
+
+    <script src="dictionnaire.js"></script>
+</body>
+</html>
