@@ -61,9 +61,38 @@
     </main>
 
     <footer>
+        <div class="stats">
+            <span>📚 <span id="totalCount">0</span> entrées</span>
+            <span>💬 <span id="expressionCount">0</span> expressions</span>
+            <span>🔤 <span id="verbCount">0</span> verbes</span>
+            <span>📝 <span id="adjectifCount">0</span> adjectifs</span>
+            <span>🤬 <span id="sacreCount">0</span> sacres</span>
+            <span>😤 <span id="insulteCount">0</span> insultes</span>
+        </div>
         <span>Québec 🍁</span>
     </footer>
 
     <script src="dictionnaire.js"></script>
+    <script>
+        // Calculate and display stats
+        function updateStats() {
+            const total = dictionnaire.length;
+            const expressions = dictionnaire.filter(d => d.type.toLowerCase().includes('expression')).length;
+            const verbes = dictionnaire.filter(d => d.type.toLowerCase().includes('verbe')).length;
+            const adjectifs = dictionnaire.filter(d => d.type.toLowerCase().includes('adjectif')).length;
+            const sacres = dictionnaire.filter(d => d.type.toLowerCase().includes('sacre')).length;
+            const insultes = dictionnaire.filter(d => d.type.toLowerCase().includes('insulte')).length;
+            
+            document.getElementById('totalCount').textContent = total;
+            document.getElementById('expressionCount').textContent = expressions;
+            document.getElementById('verbCount').textContent = verbes;
+            document.getElementById('adjectifCount').textContent = adjectifs;
+            document.getElementById('sacreCount').textContent = sacres;
+            document.getElementById('insulteCount').textContent = insultes;
+        }
+        
+        // Run on page load
+        updateStats();
+    </script>
 </body>
 </html>

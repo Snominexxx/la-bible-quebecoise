@@ -189,6 +189,32 @@ footer {
     color: #70757a;
 }
 
+/* Stats in Footer */
+.stats {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.stats span {
+    background: white;
+    padding: 5px 12px;
+    border-radius: 15px;
+    border: 1px solid #dadce0;
+    color: #5f6368;
+}
+
+.stats span span {
+    font-weight: bold;
+    color: #4285f4;
+    background: none;
+    padding: 0;
+    border: none;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
     .logo h1 {
@@ -201,5 +227,14 @@ footer {
 
     .buttons {
         flex-direction: column;
+    }
+
+    .stats {
+        gap: 8px;
+    }
+
+    .stats span {
+        font-size: 12px;
+        padding: 4px 8px;
     }
 }
