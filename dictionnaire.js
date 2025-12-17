@@ -6253,6 +6253,844 @@ const dictionnaire = [
         signification: "Excessivement appliqué.",
         contexte: "Travail.",
         exemple: "« Y'est trop zélé, y fatigue tout le monde. »"
+    },
+
+    // === 100 MOTS SUPPLÉMENTAIRES - TOUTES CATÉGORIES ===
+    
+    // --- SACRES ET JURONS ---
+    {
+        mot: "saint-sacrament",
+        type: "sacre",
+        definition: "Juron religieux intense.",
+        signification: "Expression de grande frustration.",
+        contexte: "Colère.",
+        exemple: "« Saint-sacrament, j'en ai assez! »"
+    },
+    {
+        mot: "ciboulot",
+        type: "sacre",
+        definition: "Variante adoucie de 'ciboire'.",
+        signification: "Juron léger.",
+        contexte: "Surprise.",
+        exemple: "« Ciboulot, t'as failli me faire tomber! »"
+    },
+    {
+        mot: "tabarnache",
+        type: "sacre",
+        definition: "Variante adoucie de 'tabarnak'.",
+        signification: "Juron atténué.",
+        contexte: "Frustration.",
+        exemple: "« Tabarnache, j'ai encore oublié! »"
+    },
+    {
+        mot: "crisse",
+        type: "sacre",
+        definition: "Dérivé de 'Christ'.",
+        signification: "Juron courant.",
+        contexte: "Frustration ou intensificateur.",
+        exemple: "« Crisse que c'est bon! »"
+    },
+    {
+        mot: "estifi",
+        type: "sacre",
+        definition: "Variante de 'ostie' et 'estifit'.",
+        signification: "Juron.",
+        contexte: "Colère.",
+        exemple: "« Estifi que t'es gossant! »"
+    },
+    {
+        mot: "cibole",
+        type: "sacre",
+        definition: "Variante adoucie de 'ciboire'.",
+        signification: "Juron léger.",
+        contexte: "Exclamation.",
+        exemple: "« Cibole, y mouille fort! »"
+    },
+    
+    // --- INSULTES ---
+    {
+        mot: "tarla",
+        type: "insulte",
+        definition: "Idiot, imbécile.",
+        signification: "Personne stupide.",
+        contexte: "Insulte.",
+        exemple: "« Quel tarla celui-là! »"
+    },
+    {
+        mot: "twit",
+        type: "insulte",
+        definition: "Idiot, niais.",
+        signification: "De l'anglais 'twit'.",
+        contexte: "Insulte légère.",
+        exemple: "« T'es un vrai twit! »"
+    },
+    {
+        mot: "mongol",
+        type: "insulte (offensante)",
+        definition: "Terme très offensant pour quelqu'un de stupide.",
+        signification: "Insulte grave et discriminatoire.",
+        contexte: "Insulte très péjorative.",
+        exemple: "« (Terme très offensant à éviter) »"
+    },
+    {
+        mot: "nono",
+        type: "insulte",
+        definition: "Idiot, niais.",
+        signification: "Personne naïve ou stupide.",
+        contexte: "Insulte légère.",
+        exemple: "« Fais pas ton nono! »"
+    },
+    {
+        mot: "codinde",
+        type: "insulte",
+        definition: "Personne stupide, dinde.",
+        signification: "Insulte légère.",
+        contexte: "Moquerie.",
+        exemple: "« T'es une vraie codinde! »"
+    },
+    {
+        mot: "morviat",
+        type: "insulte",
+        definition: "Jeune insolent, morveux.",
+        signification: "Gamin mal élevé.",
+        contexte: "Critique.",
+        exemple: "« P'tit morviat, respecte tes aînés! »"
+    },
+    {
+        mot: "agrès",
+        type: "insulte",
+        definition: "Personne désagréable ou de mauvaise vie.",
+        signification: "Individu peu recommandable.",
+        contexte: "Mépris.",
+        exemple: "« C'est un bel agrès celui-là! »"
+    },
+    {
+        mot: "snoroune",
+        type: "insulte",
+        definition: "Femme prétentieuse ou de mœurs légères.",
+        signification: "Terme péjoratif.",
+        contexte: "Insulte.",
+        exemple: "« C'est une vraie snoroune! »"
+    },
+    
+    // --- VERBES ---
+    {
+        mot: "accoter",
+        type: "verbe",
+        definition: "Égaler, rivaliser avec, ou vivre en concubinage.",
+        signification: "Être à la hauteur de quelqu'un.",
+        contexte: "Comparaison.",
+        exemple: "« Personne peut l'accoter au hockey. »"
+    },
+    {
+        mot: "amarrer",
+        type: "verbe",
+        definition: "Attacher, nouer.",
+        signification: "Terme maritime devenu courant.",
+        contexte: "Attache.",
+        exemple: "« Amarre tes souliers! »"
+    },
+    {
+        mot: "badrer",
+        type: "verbe",
+        definition: "Déranger, ennuyer.",
+        signification: "De l'anglais 'to bother'.",
+        contexte: "Dérangement.",
+        exemple: "« Badre-moi pas avec ça! »"
+    },
+    {
+        mot: "bécoter",
+        type: "verbe",
+        definition: "Donner des petits baisers.",
+        signification: "Embrasser affectueusement.",
+        contexte: "Affection.",
+        exemple: "« Y arrête pas de bécoter sa blonde. »"
+    },
+    {
+        mot: "boquer",
+        type: "verbe",
+        definition: "Bouder, s'entêter.",
+        signification: "Refuser de coopérer.",
+        contexte: "Entêtement.",
+        exemple: "« Arrête de boquer pis viens souper! »"
+    },
+    {
+        mot: "botcher",
+        type: "verbe",
+        definition: "Bâcler, mal faire.",
+        signification: "De l'anglais 'to botch'.",
+        contexte: "Travail mal fait.",
+        exemple: "« Y'a botché la job! »"
+    },
+    {
+        mot: "boucaner",
+        type: "verbe",
+        definition: "Fumer (viande) ou produire de la fumée.",
+        signification: "Émettre de la fumée.",
+        contexte: "Fumée.",
+        exemple: "« Le poêle boucane, ouvre la fenêtre! »"
+    },
+    {
+        mot: "brailler",
+        type: "verbe",
+        definition: "Pleurer fort, sangloter.",
+        signification: "Pleurer bruyamment.",
+        contexte: "Pleurs.",
+        exemple: "« Le bébé braille depuis une heure. »"
+    },
+    {
+        mot: "caler",
+        type: "verbe",
+        definition: "Enfoncer, boire d'un trait, ou perdre ses cheveux.",
+        signification: "Plusieurs sens selon le contexte.",
+        contexte: "Divers.",
+        exemple: "« Y cale une bière en 5 secondes. »"
+    },
+    {
+        mot: "chicoter",
+        type: "verbe",
+        definition: "Tracasser, préoccuper.",
+        signification: "Inquiéter légèrement.",
+        contexte: "Souci.",
+        exemple: "« Y'a quelque chose qui me chicote. »"
+    },
+    {
+        mot: "clairer",
+        type: "verbe",
+        definition: "Congédier, vider, dégager.",
+        signification: "De l'anglais 'to clear'.",
+        contexte: "Renvoi.",
+        exemple: "« Y s'est fait clairer de sa job. »"
+    },
+    {
+        mot: "crosser",
+        type: "verbe (vulgaire)",
+        definition: "Arnaquer, tromper.",
+        signification: "Frauder quelqu'un.",
+        contexte: "Arnaque.",
+        exemple: "« Y m'a crossé de 100 piasses! »"
+    },
+    {
+        mot: "débarquer",
+        type: "verbe",
+        definition: "Descendre, arriver à l'improviste.",
+        signification: "Sortir d'un véhicule ou arriver.",
+        contexte: "Arrivée.",
+        exemple: "« Y'a débarqué chez nous sans avertir. »"
+    },
+    {
+        mot: "écarter",
+        type: "verbe",
+        definition: "Égarer, perdre son chemin.",
+        signification: "Se perdre.",
+        contexte: "Orientation.",
+        exemple: "« J'me suis écarté dans le bois. »"
+    },
+    {
+        mot: "éjarrer",
+        type: "verbe",
+        definition: "Écarter les jambes, s'écraser.",
+        signification: "S'affaler.",
+        contexte: "Position.",
+        exemple: "« Y'est éjarré sur le sofa. »"
+    },
+    {
+        mot: "embarquer",
+        type: "verbe",
+        definition: "Monter dans un véhicule.",
+        signification: "Entrer dans un moyen de transport.",
+        contexte: "Transport.",
+        exemple: "« Embarque dans le char, on part! »"
+    },
+    {
+        mot: "enfarger",
+        type: "verbe",
+        definition: "Trébucher, faire tomber.",
+        signification: "Perdre l'équilibre.",
+        contexte: "Chute.",
+        exemple: "« J'me suis enfargé dans le tapis. »"
+    },
+    {
+        mot: "frencher",
+        type: "verbe",
+        definition: "Embrasser avec la langue.",
+        signification: "French kiss.",
+        contexte: "Amour.",
+        exemple: "« Y l'a frenchée au party. »"
+    },
+    {
+        mot: "grafigner",
+        type: "verbe",
+        definition: "Égratigner, griffer.",
+        signification: "Faire une égratignure.",
+        contexte: "Blessure légère.",
+        exemple: "« Le chat m'a grafigné. »"
+    },
+    {
+        mot: "grouiller",
+        type: "verbe",
+        definition: "Se dépêcher, bouger.",
+        signification: "Se hâter.",
+        contexte: "Empressement.",
+        exemple: "« Grouille-toi, on va être en retard! »"
+    },
+    {
+        mot: "lutter",
+        type: "verbe",
+        definition: "Se battre, faire de la lutte.",
+        signification: "Combattre physiquement.",
+        contexte: "Combat.",
+        exemple: "« Les enfants luttent dans le salon. »"
+    },
+    {
+        mot: "minoucher",
+        type: "verbe",
+        definition: "Caresser, câliner.",
+        signification: "Faire des caresses.",
+        contexte: "Affection.",
+        exemple: "« A passe son temps à minoucher son chat. »"
+    },
+    {
+        mot: "mouver",
+        type: "verbe",
+        definition: "Déménager, bouger.",
+        signification: "De l'anglais 'to move'.",
+        contexte: "Déménagement.",
+        exemple: "« On mouve le mois prochain. »"
+    },
+    {
+        mot: "niquer",
+        type: "verbe",
+        definition: "Faire un clin d'œil (Québec), différent du sens français.",
+        signification: "Cligner de l'œil.",
+        contexte: "Geste.",
+        exemple: "« Y m'a niqué de l'œil. »"
+    },
+    {
+        mot: "peinturer",
+        type: "verbe",
+        definition: "Peindre.",
+        signification: "Appliquer de la peinture.",
+        contexte: "Travaux.",
+        exemple: "« J'ai peinturé ma chambre en bleu. »"
+    },
+    {
+        mot: "pitonner",
+        type: "verbe",
+        definition: "Appuyer sur des boutons, zapper.",
+        signification: "Changer de chaîne avec la télécommande.",
+        contexte: "Télévision.",
+        exemple: "« Arrête de pitonner, choisis une chaîne! »"
+    },
+    {
+        mot: "ploguer",
+        type: "verbe",
+        definition: "Brancher, connecter.",
+        signification: "Variante de 'plugger'.",
+        contexte: "Électricité.",
+        exemple: "« Plogue la lampe! »"
+    },
+    {
+        mot: "pogner",
+        type: "verbe",
+        definition: "Attraper, prendre, avoir du succès.",
+        signification: "Saisir ou être populaire.",
+        contexte: "Divers.",
+        exemple: "« Y pogne avec les filles. »"
+    },
+    {
+        mot: "revirer",
+        type: "verbe",
+        definition: "Retourner, renverser.",
+        signification: "Tourner de l'autre côté.",
+        contexte: "Mouvement.",
+        exemple: "« Revire la crêpe! »"
+    },
+    {
+        mot: "snoozer",
+        type: "verbe",
+        definition: "Faire une sieste, remettre l'alarme.",
+        signification: "De l'anglais 'to snooze'.",
+        contexte: "Sommeil.",
+        exemple: "« J'ai snoozé trois fois à matin. »"
+    },
+    {
+        mot: "tataouiner",
+        type: "verbe",
+        definition: "Hésiter, tourner en rond.",
+        signification: "Perdre son temps.",
+        contexte: "Indécision.",
+        exemple: "« Arrête de tataouiner! »"
+    },
+    {
+        mot: "tchéquer",
+        type: "verbe",
+        definition: "Vérifier, regarder.",
+        signification: "Variante de 'checker'.",
+        contexte: "Vérification.",
+        exemple: "« Tchèque si la porte est barrée. »"
+    },
+    {
+        mot: "zigonner",
+        type: "verbe",
+        definition: "Bricoler sans but, perdre du temps.",
+        signification: "Faire n'importe quoi.",
+        contexte: "Inefficacité.",
+        exemple: "« Arrête de zigonner avec ça! »"
+    },
+    
+    // --- ADJECTIFS ---
+    {
+        mot: "achalé",
+        type: "adjectif",
+        definition: "Agacé, importuné.",
+        signification: "État d'irritation.",
+        contexte: "Émotion.",
+        exemple: "« J'suis achalé par le bruit. »"
+    },
+    {
+        mot: "affalé",
+        type: "adjectif",
+        definition: "Effondré, avachi.",
+        signification: "Position relâchée.",
+        contexte: "Posture.",
+        exemple: "« Y'est affalé sur le divan. »"
+    },
+    {
+        mot: "attriqué",
+        type: "adjectif",
+        definition: "Habillé, vêtu.",
+        signification: "Accoutré.",
+        contexte: "Vêtements.",
+        exemple: "« T'es ben attriqué pour une corvée! »"
+    },
+    {
+        mot: "avenant",
+        type: "adjectif",
+        definition: "Agréable, accueillant.",
+        signification: "De bonne compagnie.",
+        contexte: "Personnalité.",
+        exemple: "« Y'est ben avenant avec le monde. »"
+    },
+    {
+        mot: "bavasseux",
+        type: "adjectif",
+        definition: "Bavard, qui parle trop.",
+        signification: "Qui bavasse.",
+        contexte: "Communication.",
+        exemple: "« T'es ben bavasseux à soir! »"
+    },
+    {
+        mot: "bienvenu",
+        type: "adjectif",
+        definition: "De rien (réponse à merci).",
+        signification: "Formule de politesse.",
+        contexte: "Politesse.",
+        exemple: "« Merci! - Bienvenu! »"
+    },
+    {
+        mot: "blanc",
+        type: "adjectif",
+        definition: "Très ivre.",
+        signification: "Complètement saoul.",
+        contexte: "Alcool.",
+        exemple: "« Y'était blanc comme un drap! »"
+    },
+    {
+        mot: "boutte",
+        type: "adjectif/nom",
+        definition: "Bout, extrémité, ou excellent.",
+        signification: "Fin ou superlatif.",
+        contexte: "Intensité.",
+        exemple: "« C'est le boutte! (c'est le comble!) »"
+    },
+    {
+        mot: "broche à foin",
+        type: "adjectif",
+        definition: "Mal fait, amateur.",
+        signification: "De mauvaise qualité.",
+        contexte: "Critique.",
+        exemple: "« C'est une job broche à foin! »"
+    },
+    {
+        mot: "chétif",
+        type: "adjectif",
+        definition: "Maigre, faible, chiche.",
+        signification: "De constitution fragile.",
+        contexte: "Apparence.",
+        exemple: "« Y'est chétif, ce p'tit-là. »"
+    },
+    {
+        mot: "chicanier",
+        type: "adjectif",
+        definition: "Qui aime se disputer.",
+        signification: "Querelleur.",
+        contexte: "Personnalité.",
+        exemple: "« Y'est chicanier, y cherche toujours la bataille. »"
+    },
+    {
+        mot: "cotillon",
+        type: "adjectif",
+        definition: "Qui court après les femmes.",
+        signification: "Coureur de jupons.",
+        contexte: "Comportement.",
+        exemple: "« C'est un vieux cotillon. »"
+    },
+    {
+        mot: "crampant",
+        type: "adjectif",
+        definition: "Très drôle, hilarant.",
+        signification: "Qui fait rire aux éclats.",
+        contexte: "Humour.",
+        exemple: "« Y'est crampant ce gars-là! »"
+    },
+    {
+        mot: "déparaillé",
+        type: "adjectif",
+        definition: "Dépareillé, qui ne va pas ensemble.",
+        signification: "Mal assorti.",
+        contexte: "Apparence.",
+        exemple: "« Tes bas sont déparaillés. »"
+    },
+    {
+        mot: "effoiré",
+        type: "adjectif",
+        definition: "Effondré, avachi.",
+        signification: "Affalé mollement.",
+        contexte: "Position.",
+        exemple: "« Y'est effoiré dans le lazy-boy. »"
+    },
+    {
+        mot: "endimanché",
+        type: "adjectif",
+        definition: "Habillé chic, comme pour le dimanche.",
+        signification: "Bien vêtu.",
+        contexte: "Vêtements.",
+        exemple: "« T'es ben endimanché pour aller au dépanneur! »"
+    },
+    {
+        mot: "épivardé",
+        type: "adjectif",
+        definition: "Dispersé, éparpillé, énervé.",
+        signification: "Dans tous les sens.",
+        contexte: "Désordre.",
+        exemple: "« Les enfants sont épivardés à soir! »"
+    },
+    {
+        mot: "étriqué",
+        type: "adjectif",
+        definition: "Serré, trop petit.",
+        signification: "Qui manque d'ampleur.",
+        contexte: "Vêtements.",
+        exemple: "« Ton chandail est étriqué. »"
+    },
+    {
+        mot: "grichoux",
+        type: "adjectif",
+        definition: "Grincheux, de mauvaise humeur.",
+        signification: "Maussade.",
+        contexte: "Humeur.",
+        exemple: "« Y'est grichoux le matin. »"
+    },
+    {
+        mot: "grippette",
+        type: "adjectif",
+        definition: "Avare, radin.",
+        signification: "Qui ne veut pas dépenser.",
+        contexte: "Argent.",
+        exemple: "« Sois pas grippette, paye ta tournée! »"
+    },
+    
+    // --- EXPRESSIONS ---
+    {
+        mot: "avoir les yeux dans la graisse de bines",
+        type: "expression",
+        definition: "Avoir les yeux vitreux, fatigués.",
+        signification: "Être très fatigué ou sous l'effet de l'alcool.",
+        contexte: "Fatigue.",
+        exemple: "« T'as les yeux dans la graisse de bines, va te coucher! »"
+    },
+    {
+        mot: "attache ta tuque",
+        type: "expression",
+        definition: "Prépare-toi, ça va brasser.",
+        signification: "Avertissement que quelque chose d'intense arrive.",
+        contexte: "Avertissement.",
+        exemple: "« Attache ta tuque, ça va être rough! »"
+    },
+    {
+        mot: "c'est pas la mer à boire",
+        type: "expression",
+        definition: "Ce n'est pas si difficile.",
+        signification: "Relativiser une difficulté.",
+        contexte: "Encouragement.",
+        exemple: "« C'est pas la mer à boire, tu vas y arriver! »"
+    },
+    {
+        mot: "cogner des clous",
+        type: "expression",
+        definition: "S'endormir, piquer du nez.",
+        signification: "Être très fatigué.",
+        contexte: "Fatigue.",
+        exemple: "« Y cogne des clous devant la TV. »"
+    },
+    {
+        mot: "être aux oiseaux",
+        type: "expression",
+        definition: "Être très heureux.",
+        signification: "État de grande joie.",
+        contexte: "Bonheur.",
+        exemple: "« A l'est aux oiseaux depuis qu'a l'a eu la job! »"
+    },
+    {
+        mot: "faut le faire",
+        type: "expression",
+        definition: "C'est incroyable, c'est quelque chose.",
+        signification: "Marquer l'étonnement.",
+        contexte: "Surprise.",
+        exemple: "« Faut le faire pour être aussi niaiseux! »"
+    },
+    {
+        mot: "manger une volée",
+        type: "expression",
+        definition: "Se faire battre.",
+        signification: "Recevoir une raclée.",
+        contexte: "Bagarre.",
+        exemple: "« Y'a mangé une volée au hockey. »"
+    },
+    {
+        mot: "ne pas être sorti du bois",
+        type: "expression",
+        definition: "Ne pas être tiré d'affaire.",
+        signification: "Avoir encore des problèmes.",
+        contexte: "Difficulté.",
+        exemple: "« On n'est pas sortis du bois avec ce projet! »"
+    },
+    {
+        mot: "partir sur une balloune",
+        type: "expression",
+        definition: "Se saouler, faire la fête.",
+        signification: "Boire beaucoup.",
+        contexte: "Fête.",
+        exemple: "« Y'est parti sur une balloune hier soir. »"
+    },
+    {
+        mot: "perdre la carte",
+        type: "expression",
+        definition: "Devenir confus, perdre la tête.",
+        signification: "Ne plus comprendre.",
+        contexte: "Confusion.",
+        exemple: "« Y perd la carte des fois. »"
+    },
+    {
+        mot: "peter la balloune",
+        type: "expression",
+        definition: "Échouer au test d'ivressomètre.",
+        signification: "Être en état d'ébriété au volant.",
+        contexte: "Conduite.",
+        exemple: "« Y s'est fait arrêter, y'a pété la balloune. »"
+    },
+    {
+        mot: "se faire passer un québec",
+        type: "expression",
+        definition: "Se faire tromper, arnaquer.",
+        signification: "Variante de 'se faire passer un sapin'.",
+        contexte: "Arnaque.",
+        exemple: "« J'me suis fait passer un québec! »"
+    },
+    {
+        mot: "se garrocher",
+        type: "expression",
+        definition: "Se précipiter, se lancer.",
+        signification: "Aller vite.",
+        contexte: "Empressement.",
+        exemple: "« Y s'est garroché sur la poutine! »"
+    },
+    {
+        mot: "se paqueter la fraise",
+        type: "expression",
+        definition: "Se saouler.",
+        signification: "Boire beaucoup.",
+        contexte: "Alcool.",
+        exemple: "« Y s'est paqueté la fraise au party. »"
+    },
+    {
+        mot: "tirer la plogue",
+        type: "expression",
+        definition: "Abandonner, arrêter.",
+        signification: "Mettre fin à quelque chose.",
+        contexte: "Abandon.",
+        exemple: "« J'ai tiré la plogue sur ce projet. »"
+    },
+    {
+        mot: "virer de bord",
+        type: "expression",
+        definition: "Faire demi-tour, changer d'avis.",
+        signification: "Retourner sur ses pas.",
+        contexte: "Changement.",
+        exemple: "« Vire de bord, on a oublié le lunch! »"
+    },
+    
+    // --- NOMS DIVERS ---
+    {
+        mot: "bazou",
+        type: "nom masculin",
+        definition: "Vieille voiture en mauvais état.",
+        signification: "Tacot.",
+        contexte: "Automobile.",
+        exemple: "« Y roule encore avec son vieux bazou! »"
+    },
+    {
+        mot: "bizoune",
+        type: "nom féminin",
+        definition: "Pénis (langage enfantin).",
+        signification: "Terme enfantin.",
+        contexte: "Anatomie.",
+        exemple: "« Cache ta bizoune! »"
+    },
+    {
+        mot: "champlure",
+        type: "nom féminin",
+        definition: "Robinet.",
+        signification: "Terme ancien pour robinet.",
+        contexte: "Plomberie.",
+        exemple: "« Ferme la champlure, tu gaspilles l'eau! »"
+    },
+    {
+        mot: "déjeuner",
+        type: "nom masculin",
+        definition: "Petit-déjeuner (repas du matin).",
+        signification: "Premier repas de la journée.",
+        contexte: "Repas.",
+        exemple: "« Qu'est-ce que tu manges pour déjeuner? »"
+    },
+    {
+        mot: "dîner",
+        type: "nom masculin",
+        definition: "Repas du midi (et non du soir).",
+        signification: "Repas de midi au Québec.",
+        contexte: "Repas.",
+        exemple: "« On dîne-tu ensemble? »"
+    },
+    {
+        mot: "souper",
+        type: "nom masculin",
+        definition: "Repas du soir.",
+        signification: "Dernier repas de la journée.",
+        contexte: "Repas.",
+        exemple: "« Le souper est prêt! »"
+    },
+    {
+        mot: "efface",
+        type: "nom féminin",
+        definition: "Gomme à effacer.",
+        signification: "Outil pour effacer.",
+        contexte: "École.",
+        exemple: "« Passe-moi ton efface. »"
+    },
+    {
+        mot: "finfine",
+        type: "nom féminin",
+        definition: "Menthe, bonbon à la menthe.",
+        signification: "Fine herbe ou bonbon.",
+        contexte: "Confiserie.",
+        exemple: "« T'as-tu des finfines? »"
+    },
+    {
+        mot: "garnotte",
+        type: "nom féminin",
+        definition: "Gravier, petites pierres.",
+        signification: "Cailloux.",
+        contexte: "Terrain.",
+        exemple: "« Y'a de la garnotte dans l'entrée. »"
+    },
+    {
+        mot: "guidoune",
+        type: "nom féminin",
+        definition: "Femme de mœurs légères.",
+        signification: "Terme très péjoratif.",
+        contexte: "Insulte.",
+        exemple: "« (Terme offensant à éviter) »"
+    },
+    {
+        mot: "lichette",
+        type: "nom féminin",
+        definition: "Petite quantité, petit peu.",
+        signification: "Une toute petite portion.",
+        contexte: "Quantité.",
+        exemple: "« Donne-moi juste une lichette de sirop. »"
+    },
+    {
+        mot: "mitaine",
+        type: "nom féminin",
+        definition: "Moufle, gant sans doigts séparés.",
+        signification: "Protection pour les mains.",
+        contexte: "Vêtements d'hiver.",
+        exemple: "« Mets tes mitaines, y fait frette! »"
+    },
+    {
+        mot: "moumoune",
+        type: "nom féminin/masculin",
+        definition: "Peureux, efféminé.",
+        signification: "Terme péjoratif pour quelqu'un de lâche.",
+        contexte: "Insulte.",
+        exemple: "« Fais pas ta moumoune! »"
+    },
+    {
+        mot: "nanane",
+        type: "nom masculin",
+        definition: "Bonbon, friandise.",
+        signification: "Sucrerie.",
+        contexte: "Confiserie.",
+        exemple: "« Veux-tu un nanane? »"
+    },
+    {
+        mot: "palette",
+        type: "nom féminin",
+        definition: "Incisives, dents de devant.",
+        signification: "Dents.",
+        contexte: "Anatomie.",
+        exemple: "« Y'a perdu ses deux palettes! »"
+    },
+    {
+        mot: "patate",
+        type: "nom féminin",
+        definition: "Pomme de terre.",
+        signification: "Légume.",
+        contexte: "Alimentation.",
+        exemple: "« Des patates pilées avec le ragoût. »"
+    },
+    {
+        mot: "poupoune",
+        type: "nom féminin",
+        definition: "Femme qui prend soin de son apparence.",
+        signification: "Terme parfois péjoratif.",
+        contexte: "Apparence.",
+        exemple: "« C'est une vraie poupoune! »"
+    },
+    {
+        mot: "sacoche",
+        type: "nom féminin",
+        definition: "Sac à main.",
+        signification: "Accessoire féminin.",
+        contexte: "Mode.",
+        exemple: "« J'ai oublié ma sacoche au resto! »"
+    },
+    {
+        mot: "suçon",
+        type: "nom masculin",
+        definition: "Sucette, lollipop.",
+        signification: "Bonbon sur un bâton.",
+        contexte: "Confiserie.",
+        exemple: "« Les enfants mangent des suçons. »"
+    },
+    {
+        mot: "vadrouille",
+        type: "nom féminin",
+        definition: "Serpillière, moppe.",
+        signification: "Outil de nettoyage.",
+        contexte: "Ménage.",
+        exemple: "« Passe la vadrouille dans la cuisine. »"
     }
 ];
 
