@@ -8769,6 +8769,694 @@ const dictionnaire = [
         signification: "Pronom féminin.",
         contexte: "Grammaire.",
         exemple: "« A l'est belle. »"
+    },
+
+    // === 100 NOUVEAUX MOTS - VARIÉS ===
+    
+    // --- SACRES ET JURONS ---
+    {
+        mot: "batince",
+        type: "sacre",
+        definition: "Forme atténuée de baptême.",
+        signification: "Juron léger.",
+        contexte: "Frustration.",
+        exemple: "« Batince que c'est long! »"
+    },
+    {
+        mot: "bâtard",
+        type: "sacre",
+        definition: "Juron exprimant la frustration.",
+        signification: "Équivalent de 'merde'.",
+        contexte: "Frustration.",
+        exemple: "« Bâtard, j'ai oublié mes clés! »"
+    },
+    {
+        mot: "bout de viarge",
+        type: "sacre",
+        definition: "Forme atténuée de 'bout de vierge'.",
+        signification: "Sacre exprimant la surprise.",
+        contexte: "Surprise.",
+        exemple: "« Bout de viarge, t'as-tu vu ça! »"
+    },
+    {
+        mot: "câlique",
+        type: "sacre",
+        definition: "Forme atténuée de câlice.",
+        signification: "Version adoucie.",
+        contexte: "Frustration.",
+        exemple: "« Câlique que ça va mal! »"
+    },
+    {
+        mot: "christie",
+        type: "sacre",
+        definition: "Forme atténuée de Christ.",
+        signification: "Version adoucie.",
+        contexte: "Frustration.",
+        exemple: "« Christie, j'suis tanné! »"
+    },
+    {
+        mot: "cibole",
+        type: "sacre",
+        definition: "Forme atténuée de ciboire.",
+        signification: "Version adoucie.",
+        contexte: "Frustration.",
+        exemple: "« Cibole, c'est pas vrai! »"
+    },
+    {
+        mot: "crime",
+        type: "sacre",
+        definition: "Forme atténuée de Christ.",
+        signification: "Juron léger.",
+        contexte: "Surprise.",
+        exemple: "« Crime que t'es vite! »"
+    },
+    {
+        mot: "enfant de nanane",
+        type: "sacre",
+        definition: "Forme atténuée de 'enfant de chienne'.",
+        signification: "Juron comique.",
+        contexte: "Frustration légère.",
+        exemple: "« Enfant de nanane, ça marche pas! »"
+    },
+    {
+        mot: "jésus-marie-joseph",
+        type: "sacre",
+        definition: "Exclamation de surprise ou frustration.",
+        signification: "Invocation religieuse.",
+        contexte: "Surprise.",
+        exemple: "« Jésus-Marie-Joseph, qu'est-ce qui se passe? »"
+    },
+    {
+        mot: "maudit batince",
+        type: "sacre",
+        definition: "Juron combiné.",
+        signification: "Exprime forte frustration.",
+        contexte: "Frustration.",
+        exemple: "« Maudit batince, j'ai encore oublié! »"
+    },
+    {
+        mot: "mosus",
+        type: "sacre",
+        definition: "Forme atténuée de maudit.",
+        signification: "Version adoucie.",
+        contexte: "Frustration.",
+        exemple: "« Mosus que c'est plate! »"
+    },
+    {
+        mot: "sacrifice",
+        type: "sacre",
+        definition: "Juron religieux atténué.",
+        signification: "Exprime frustration.",
+        contexte: "Frustration.",
+        exemple: "« Sacrifice, y fait frette! »"
+    },
+    {
+        mot: "saint-ciboire",
+        type: "sacre",
+        definition: "Combinaison de sacres.",
+        signification: "Juron intensifié.",
+        contexte: "Frustration forte.",
+        exemple: "« Saint-ciboire, c'est pas possible! »"
+    },
+    {
+        mot: "saint-simonaque",
+        type: "sacre",
+        definition: "Combinaison atténuée.",
+        signification: "Juron adouci.",
+        contexte: "Surprise.",
+        exemple: "« Saint-simonaque, y'a-tu fait ça? »"
+    },
+    {
+        mot: "torrieux",
+        type: "sacre",
+        definition: "Forme atténuée de Dieu/Hostie.",
+        signification: "Vieux juron.",
+        contexte: "Frustration.",
+        exemple: "« Torrieux, c'est ben trop cher! »"
+    },
+    
+    // --- INSULTES ET QUALIFICATIFS ---
+    {
+        mot: "agrès",
+        type: "insulte",
+        definition: "Personne désagréable ou malcommode.",
+        signification: "Individu déplaisant.",
+        contexte: "Insulte.",
+        exemple: "« C't'un maudit agrès! »"
+    },
+    {
+        mot: "branleux",
+        type: "insulte",
+        definition: "Personne qui hésite, indécise.",
+        signification: "Qui traîne, lambine.",
+        contexte: "Critique.",
+        exemple: "« Arrête de faire ton branleux! »"
+    },
+    {
+        mot: "baveux",
+        type: "insulte",
+        definition: "Personne arrogante, prétentieuse.",
+        signification: "Qui se vante.",
+        contexte: "Insulte.",
+        exemple: "« T'es ben baveux! »"
+    },
+    {
+        mot: "bines",
+        type: "insulte",
+        definition: "Personne insignifiante.",
+        signification: "Terme péjoratif.",
+        contexte: "Insulte légère.",
+        exemple: "« C'est rien qu'une bines. »"
+    },
+    {
+        mot: "bloke",
+        type: "insulte",
+        definition: "Anglophone (péjoratif).",
+        signification: "Terme désobligeant.",
+        contexte: "Insulte ethnique.",
+        exemple: "« Les blokes comprennent rien. »"
+    },
+    {
+        mot: "bolé",
+        type: "insulte",
+        definition: "Premier de classe, intello.",
+        signification: "Personne studieuse (péjoratif).",
+        contexte: "Moquerie.",
+        exemple: "« C'est un bolé, lui. »"
+    },
+    {
+        mot: "bonhomme sept-heures",
+        type: "nom masculin",
+        definition: "Croque-mitaine, personnage effrayant.",
+        signification: "Pour faire peur aux enfants.",
+        contexte: "Folklore.",
+        exemple: "« Le bonhomme sept-heures va venir te chercher! »"
+    },
+    {
+        mot: "braque",
+        type: "insulte",
+        definition: "Personne folle, dérangée.",
+        signification: "Un peu fou.",
+        contexte: "Insulte.",
+        exemple: "« Y'est braque ce gars-là! »"
+    },
+    {
+        mot: "cabochon",
+        type: "insulte",
+        definition: "Personne têtue et stupide.",
+        signification: "Tête dure.",
+        contexte: "Insulte.",
+        exemple: "« Fais pas ton cabochon! »"
+    },
+    {
+        mot: "canayen",
+        type: "nom masculin",
+        definition: "Canadien français traditionnel.",
+        signification: "Québécois de souche.",
+        contexte: "Identité.",
+        exemple: "« Un vrai canayen! »"
+    },
+    {
+        mot: "cassé",
+        type: "adjectif",
+        definition: "Sans argent, fauché.",
+        signification: "Pauvre temporairement.",
+        contexte: "Finances.",
+        exemple: "« Chus cassé jusqu'à ma paye. »"
+    },
+    {
+        mot: "charlot",
+        type: "insulte",
+        definition: "Personne pas sérieuse, clown.",
+        signification: "Qui fait le fou.",
+        contexte: "Moquerie.",
+        exemple: "« Fais pas ton charlot! »"
+    },
+    {
+        mot: "chaudaille",
+        type: "adjectif",
+        definition: "Un peu ivre.",
+        signification: "Légèrement saoul.",
+        contexte: "Alcool.",
+        exemple: "« Y'est un peu chaudaille. »"
+    },
+    {
+        mot: "chenaille",
+        type: "insulte",
+        definition: "Personne ou chose de mauvaise qualité.",
+        signification: "Camelote, racaille.",
+        contexte: "Mépris.",
+        exemple: "« C'est de la chenaille. »"
+    },
+    {
+        mot: "cochon",
+        type: "insulte",
+        definition: "Personne sale ou perverse.",
+        signification: "Malpropre ou lubrique.",
+        contexte: "Insulte.",
+        exemple: "« T'es ben cochon! »"
+    },
+    {
+        mot: "cornichon",
+        type: "insulte",
+        definition: "Personne stupide, niaise.",
+        signification: "Idiot.",
+        contexte: "Insulte légère.",
+        exemple: "« T'es un vrai cornichon! »"
+    },
+    {
+        mot: "coune",
+        type: "insulte",
+        definition: "Personne idiote.",
+        signification: "Niais.",
+        contexte: "Insulte.",
+        exemple: "« Fais pas ta coune! »"
+    },
+    {
+        mot: "crotté",
+        type: "adjectif",
+        definition: "Sale, crasseux.",
+        signification: "Couvert de saleté.",
+        contexte: "Propreté.",
+        exemple: "« T'es tout crotté! »"
+    },
+    {
+        mot: "dégaine",
+        type: "nom féminin",
+        definition: "Allure, apparence.",
+        signification: "Look général.",
+        contexte: "Apparence.",
+        exemple: "« T'as une drôle de dégaine! »"
+    },
+    {
+        mot: "déparaillé",
+        type: "adjectif",
+        definition: "Dépareillé, mal assorti.",
+        signification: "Qui ne va pas ensemble.",
+        contexte: "Apparence.",
+        exemple: "« Tes bas sont déparaillés. »"
+    },
+    {
+        mot: "dépendeux de lèvre",
+        type: "insulte",
+        definition: "Personne triste, qui fait la gueule.",
+        signification: "Air boudeur.",
+        contexte: "Insulte.",
+        exemple: "« Fais pas ton dépendeux de lèvre! »"
+    },
+    {
+        mot: "désâmé",
+        type: "adjectif",
+        definition: "Épuisé, à bout de souffle.",
+        signification: "Très fatigué.",
+        contexte: "Fatigue.",
+        exemple: "« Chus désâmé après cette course-là. »"
+    },
+    {
+        mot: "dinde",
+        type: "insulte",
+        definition: "Femme stupide ou prétentieuse.",
+        signification: "Niaise.",
+        contexte: "Insulte.",
+        exemple: "« C't'une vraie dinde! »"
+    },
+    {
+        mot: "dodiche",
+        type: "nom féminin",
+        definition: "Femme coquette, un peu superficielle.",
+        signification: "Femme maniérée.",
+        contexte: "Description.",
+        exemple: "« C't'une petite dodiche. »"
+    },
+    {
+        mot: "écornifleux",
+        type: "insulte",
+        definition: "Personne curieuse, fouineuse.",
+        signification: "Qui écoute aux portes.",
+        contexte: "Critique.",
+        exemple: "« T'es ben écornifleux! »"
+    },
+    {
+        mot: "effoire",
+        type: "insulte",
+        definition: "Personne molle, sans énergie.",
+        signification: "Avachi.",
+        contexte: "Insulte.",
+        exemple: "« Lève-toi, effoire! »"
+    },
+    {
+        mot: "étranger",
+        type: "nom masculin",
+        definition: "Non-local, personne de l'extérieur.",
+        signification: "Qui n'est pas du coin.",
+        contexte: "Origine.",
+        exemple: "« C'est un étranger, y vient de Montréal. »"
+    },
+    {
+        mot: "face à fesser dedans",
+        type: "expression",
+        definition: "Visage désagréable, antipathique.",
+        signification: "Tête qui donne envie de frapper.",
+        contexte: "Insulte.",
+        exemple: "« Y'a une face à fesser dedans. »"
+    },
+    {
+        mot: "fendant",
+        type: "insulte",
+        definition: "Personne prétentieuse, arrogante.",
+        signification: "Qui se prend pour un autre.",
+        contexte: "Insulte.",
+        exemple: "« Y'est fendant depuis qu'y a eu sa promotion. »"
+    },
+    {
+        mot: "flanc mou",
+        type: "insulte",
+        definition: "Personne paresseuse.",
+        signification: "Fainéant.",
+        contexte: "Insulte.",
+        exemple: "« C'est un flanc mou, y fait jamais rien. »"
+    },
+    {
+        mot: "fou braque",
+        type: "expression",
+        definition: "Complètement fou.",
+        signification: "Dérangé mentalement.",
+        contexte: "Insulte.",
+        exemple: "« Y'est fou braque! »"
+    },
+    {
+        mot: "frais chié",
+        type: "insulte",
+        definition: "Personne prétentieuse.",
+        signification: "Qui se croit supérieur.",
+        contexte: "Insulte.",
+        exemple: "« Y'est frais chié celui-là! »"
+    },
+    {
+        mot: "galarneau",
+        type: "nom masculin",
+        definition: "Le soleil.",
+        signification: "Personnification du soleil.",
+        contexte: "Météo.",
+        exemple: "« Galarneau est de sortie aujourd'hui! »"
+    },
+    {
+        mot: "gino",
+        type: "nom masculin",
+        definition: "Jeune homme typé italien, macho.",
+        signification: "Stéréotype.",
+        contexte: "Description.",
+        exemple: "« C'est un vrai gino avec son char tunné. »"
+    },
+    {
+        mot: "gnochon",
+        type: "insulte",
+        definition: "Personne stupide.",
+        signification: "Idiot.",
+        contexte: "Insulte.",
+        exemple: "« T'es un gnochon! »"
+    },
+    {
+        mot: "grand fanal",
+        type: "insulte",
+        definition: "Personne très grande et maigre.",
+        signification: "Grande perche.",
+        contexte: "Moquerie.",
+        exemple: "« Regarde le grand fanal! »"
+    },
+    {
+        mot: "grand slack",
+        type: "insulte",
+        definition: "Personne grande et dégingandée.",
+        signification: "Grande asperge.",
+        contexte: "Moquerie.",
+        exemple: "« C'est un grand slack. »"
+    },
+    {
+        mot: "grippette",
+        type: "insulte",
+        definition: "Personne avare, pingre.",
+        signification: "Radin.",
+        contexte: "Insulte.",
+        exemple: "« C't'une vraie grippette! »"
+    },
+    {
+        mot: "guidoune",
+        type: "insulte",
+        definition: "Femme de mœurs légères.",
+        signification: "Prostituée ou femme vulgaire.",
+        contexte: "Insulte vulgaire.",
+        exemple: "« A s'habille comme une guidoune. »"
+    },
+    
+    // --- VERBES ADDITIONNELS ---
+    {
+        mot: "adonner",
+        type: "verbe",
+        definition: "Convenir, tomber bien.",
+        signification: "Correspondre.",
+        contexte: "Circonstance.",
+        exemple: "« Ça adonne bien! »"
+    },
+    {
+        mot: "amarrer",
+        type: "verbe",
+        definition: "Attacher, nouer.",
+        signification: "Fixer avec une corde.",
+        contexte: "Action.",
+        exemple: "« Amarre tes souliers. »"
+    },
+    {
+        mot: "badtripper",
+        type: "verbe",
+        definition: "Faire une mauvaise expérience, angoisser.",
+        signification: "Stresser intensément.",
+        contexte: "Émotion.",
+        exemple: "« J'ai badtrippé toute la nuit. »"
+    },
+    {
+        mot: "bâdrer",
+        type: "verbe",
+        definition: "Déranger, embêter.",
+        signification: "De l'anglais 'to bother'.",
+        contexte: "Dérangement.",
+        exemple: "« Bâdre-moi pas avec ça. »"
+    },
+    {
+        mot: "bambocher",
+        type: "verbe",
+        definition: "Faire la fête.",
+        signification: "Festoyer.",
+        contexte: "Fête.",
+        exemple: "« On a bamboché toute la nuit. »"
+    },
+    {
+        mot: "bizoune",
+        type: "nom féminin",
+        definition: "Pénis (langage enfantin).",
+        signification: "Terme pour enfants.",
+        contexte: "Anatomie.",
+        exemple: "« Cache ta bizoune! »"
+    },
+    {
+        mot: "blaster",
+        type: "verbe",
+        definition: "Critiquer violemment, détruire.",
+        signification: "Démolir verbalement.",
+        contexte: "Critique.",
+        exemple: "« Y s'est fait blaster par son boss. »"
+    },
+    {
+        mot: "bleeder",
+        type: "verbe",
+        definition: "Saigner ou purger les freins.",
+        signification: "De l'anglais 'to bleed'.",
+        contexte: "Mécanique/Blessure.",
+        exemple: "« Faut bleeder les brakes. »"
+    },
+    {
+        mot: "booker",
+        type: "verbe",
+        definition: "Réserver.",
+        signification: "De l'anglais 'to book'.",
+        contexte: "Réservation.",
+        exemple: "« J'ai booké une table au resto. »"
+    },
+    {
+        mot: "botcher",
+        type: "verbe",
+        definition: "Bâcler, mal faire.",
+        signification: "De l'anglais 'to botch'.",
+        contexte: "Travail.",
+        exemple: "« Y'a botché sa job. »"
+    },
+    {
+        mot: "brailler",
+        type: "verbe",
+        definition: "Pleurer bruyamment.",
+        signification: "Pleurnicher.",
+        contexte: "Émotion.",
+        exemple: "« Arrête de brailler! »"
+    },
+    {
+        mot: "breaker",
+        type: "verbe",
+        definition: "Casser, rompre.",
+        signification: "De l'anglais 'to break'.",
+        contexte: "Rupture.",
+        exemple: "« Y ont breaké après 5 ans. »"
+    },
+    {
+        mot: "brosse (prendre une)",
+        type: "expression",
+        definition: "Se saouler.",
+        signification: "Boire excessivement.",
+        contexte: "Alcool.",
+        exemple: "« Y'a pris une méchante brosse hier! »"
+    },
+    {
+        mot: "bumper",
+        type: "verbe",
+        definition: "Rencontrer par hasard, remplacer.",
+        signification: "Croiser ou supplanter.",
+        contexte: "Rencontre.",
+        exemple: "« J'l'ai bumpé au centre d'achats. »"
+    },
+    {
+        mot: "busher",
+        type: "verbe",
+        definition: "Pousser, forcer.",
+        signification: "De l'anglais 'to push'.",
+        contexte: "Action.",
+        exemple: "« Bushe pas trop fort! »"
+    },
+    {
+        mot: "caller",
+        type: "verbe",
+        definition: "Appeler, téléphoner, ou prédire.",
+        signification: "De l'anglais 'to call'.",
+        contexte: "Communication.",
+        exemple: "« Caller malade. » « J'l'avais callé! »"
+    },
+    {
+        mot: "chauffer",
+        type: "verbe",
+        definition: "Conduire un véhicule.",
+        signification: "Piloter.",
+        contexte: "Transport.",
+        exemple: "« C'est qui qui chauffe à soir? »"
+    },
+    {
+        mot: "checker",
+        type: "verbe",
+        definition: "Vérifier, regarder.",
+        signification: "De l'anglais 'to check'.",
+        contexte: "Observation.",
+        exemple: "« Check ça! »"
+    },
+    {
+        mot: "chiquer la guenille",
+        type: "expression",
+        definition: "Bouder, faire la gueule.",
+        signification: "Être de mauvaise humeur.",
+        contexte: "Humeur.",
+        exemple: "« Arrête de chiquer la guenille! »"
+    },
+    {
+        mot: "choker",
+        type: "verbe",
+        definition: "S'étouffer ou échouer sous la pression.",
+        signification: "De l'anglais 'to choke'.",
+        contexte: "Échec.",
+        exemple: "« Y'a choké en finale. »"
+    },
+    {
+        mot: "clipper",
+        type: "verbe",
+        definition: "Couper, tailler.",
+        signification: "De l'anglais 'to clip'.",
+        contexte: "Action.",
+        exemple: "« Faut clipper la haie. »"
+    },
+    {
+        mot: "crosser",
+        type: "verbe",
+        definition: "Arnaquer, tromper.",
+        signification: "Escroquer.",
+        contexte: "Tromperie.",
+        exemple: "« Y m'a crossé sur le prix! »"
+    },
+    {
+        mot: "cruiser",
+        type: "verbe",
+        definition: "Draguer, chercher des conquêtes.",
+        signification: "De l'anglais 'to cruise'.",
+        contexte: "Séduction.",
+        exemple: "« Y passe son temps à cruiser. »"
+    },
+    {
+        mot: "débourrer",
+        type: "verbe",
+        definition: "Se calmer, reprendre ses esprits.",
+        signification: "Se détendre après excitation.",
+        contexte: "Calme.",
+        exemple: "« Débourre un peu! »"
+    },
+    {
+        mot: "décâlisser",
+        type: "verbe",
+        definition: "Partir rapidement, démolir.",
+        signification: "S'en aller ou casser.",
+        contexte: "Action.",
+        exemple: "« Décâlisse de là! »"
+    },
+    {
+        mot: "défaire",
+        type: "verbe",
+        definition: "Battre, vaincre.",
+        signification: "Gagner contre.",
+        contexte: "Compétition.",
+        exemple: "« On les a défaits 3-0. »"
+    },
+    {
+        mot: "déguédiner",
+        type: "verbe",
+        definition: "Se dépêcher.",
+        signification: "Se grouiller.",
+        contexte: "Rapidité.",
+        exemple: "« Déguédine! On va être en retard! »"
+    },
+    {
+        mot: "déjammer",
+        type: "verbe",
+        definition: "Débloquer.",
+        signification: "Libérer ce qui est coincé.",
+        contexte: "Action.",
+        exemple: "« Faut déjammer la porte. »"
+    },
+    {
+        mot: "ditcher",
+        type: "verbe",
+        definition: "Abandonner, laisser tomber.",
+        signification: "De l'anglais 'to ditch'.",
+        contexte: "Abandon.",
+        exemple: "« Y m'a ditché pour aller avec ses chums. »"
+    },
+    {
+        mot: "domper",
+        type: "verbe",
+        definition: "Larguer, jeter.",
+        signification: "De l'anglais 'to dump'.",
+        contexte: "Rupture/Déchet.",
+        exemple: "« A l'a dompé son chum. »"
+    },
+    {
+        mot: "éjarrer",
+        type: "verbe",
+        definition: "Écarter les jambes, s'affaler.",
+        signification: "S'asseoir jambes écartées.",
+        contexte: "Position.",
+        exemple: "« Éjarre-toi pas de même! »"
     }
 ];
 
