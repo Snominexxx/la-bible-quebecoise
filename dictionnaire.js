@@ -10249,6 +10249,688 @@ const dictionnaire = [
         signification: "Copain.",
         contexte: "Relation.",
         exemple: "« C'est mon chum. »"
+    },
+
+    // === 100 NOUVEAUX MOTS - VARIÉS ===
+    
+    // --- TRAVAIL ET MÉTIERS ---
+    {
+        mot: "backer",
+        type: "verbe",
+        definition: "Appuyer, soutenir quelqu'un.",
+        signification: "Supporter.",
+        contexte: "Travail.",
+        exemple: "« Mon boss m'a backé dans ce projet. »"
+    },
+    {
+        mot: "bosser",
+        type: "verbe",
+        definition: "Travailler, ou diriger.",
+        signification: "Faire le boss.",
+        contexte: "Travail.",
+        exemple: "« Arrête de me bosser! »"
+    },
+    {
+        mot: "clairer",
+        type: "verbe",
+        definition: "Renvoyer, congédier.",
+        signification: "Mettre à la porte.",
+        contexte: "Travail.",
+        exemple: "« Y s'est fait clairer de sa job. »"
+    },
+    {
+        mot: "foreman",
+        type: "nom masculin",
+        definition: "Contremaître.",
+        signification: "Chef d'équipe.",
+        contexte: "Travail.",
+        exemple: "« Le foreman veut te voir. »"
+    },
+    {
+        mot: "freelance",
+        type: "adjectif",
+        definition: "Travailleur autonome.",
+        signification: "À son compte.",
+        contexte: "Travail.",
+        exemple: "« Y travaille freelance. »"
+    },
+    {
+        mot: "job",
+        type: "nom féminin",
+        definition: "Emploi, travail.",
+        signification: "De l'anglais.",
+        contexte: "Travail.",
+        exemple: "« J'ai trouvé une bonne job. »"
+    },
+    {
+        mot: "jobine",
+        type: "nom féminin",
+        definition: "Petit travail, boulot.",
+        signification: "Emploi temporaire.",
+        contexte: "Travail.",
+        exemple: "« Y fait des jobines. »"
+    },
+    {
+        mot: "overtime",
+        type: "nom masculin",
+        definition: "Heures supplémentaires.",
+        signification: "Temps additionnel.",
+        contexte: "Travail.",
+        exemple: "« J'ai fait de l'overtime hier. »"
+    },
+    {
+        mot: "paye",
+        type: "nom féminin",
+        definition: "Salaire, paie.",
+        signification: "Rémunération.",
+        contexte: "Travail.",
+        exemple: "« C'est jour de paye! »"
+    },
+    {
+        mot: "puncher",
+        type: "verbe",
+        definition: "Pointer au travail.",
+        signification: "Enregistrer son arrivée.",
+        contexte: "Travail.",
+        exemple: "« Faut puncher à 8h. »"
+    },
+    {
+        mot: "rush",
+        type: "nom masculin",
+        definition: "Période de grande activité.",
+        signification: "Coup de feu.",
+        contexte: "Travail.",
+        exemple: "« C'est le rush au bureau. »"
+    },
+    {
+        mot: "shift",
+        type: "nom masculin",
+        definition: "Quart de travail.",
+        signification: "Horaire.",
+        contexte: "Travail.",
+        exemple: "« J'travaille le shift de nuit. »"
+    },
+    {
+        mot: "slack",
+        type: "nom masculin",
+        definition: "Période calme au travail.",
+        signification: "Temps mort.",
+        contexte: "Travail.",
+        exemple: "« C'est slack ces temps-ci. »"
+    },
+    {
+        mot: "stagiaire",
+        type: "nom",
+        definition: "Personne en stage.",
+        signification: "Apprenti.",
+        contexte: "Travail.",
+        exemple: "« Le stagiaire apprend vite. »"
+    },
+    {
+        mot: "tip",
+        type: "nom masculin",
+        definition: "Pourboire.",
+        signification: "De l'anglais.",
+        contexte: "Service.",
+        exemple: "« Y m'a laissé un bon tip. »"
+    },
+    
+    // --- SPORTS ET LOISIRS ---
+    {
+        mot: "aréna",
+        type: "nom masculin",
+        definition: "Patinoire couverte.",
+        signification: "Centre sportif de hockey.",
+        contexte: "Sport.",
+        exemple: "« On joue à l'aréna à soir. »"
+    },
+    {
+        mot: "bâton",
+        type: "nom masculin",
+        definition: "Crosse de hockey.",
+        signification: "Équipement de hockey.",
+        contexte: "Hockey.",
+        exemple: "« Mon bâton est cassé. »"
+    },
+    {
+        mot: "bleuet",
+        type: "nom masculin",
+        definition: "Myrtille, ou surnom des gens du Lac-Saint-Jean.",
+        signification: "Petit fruit ou habitant.",
+        contexte: "Fruit/Région.",
+        exemple: "« Des bleuets du Lac-Saint-Jean. »"
+    },
+    {
+        mot: "brasser la cage",
+        type: "expression",
+        definition: "Provoquer, déranger.",
+        signification: "Créer de l'agitation.",
+        contexte: "Sport/Vie.",
+        exemple: "« Y'aime brasser la cage. »"
+    },
+    {
+        mot: "cabane à sucre",
+        type: "nom féminin",
+        definition: "Érablière où on produit le sirop.",
+        signification: "Lieu de production de sirop d'érable.",
+        contexte: "Tradition.",
+        exemple: "« On va à la cabane à sucre au printemps. »"
+    },
+    {
+        mot: "caler",
+        type: "verbe",
+        definition: "Boire d'un trait, ou s'enfoncer.",
+        signification: "Avaler vite ou couler.",
+        contexte: "Boisson/Action.",
+        exemple: "« Y'a calé sa bière. »"
+    },
+    {
+        mot: "camper",
+        type: "verbe",
+        definition: "Faire du camping.",
+        signification: "Dormir sous la tente.",
+        contexte: "Loisir.",
+        exemple: "« On va camper en fin de semaine. »"
+    },
+    {
+        mot: "chalet",
+        type: "nom masculin",
+        definition: "Maison de campagne.",
+        signification: "Résidence secondaire.",
+        contexte: "Loisir.",
+        exemple: "« On passe l'été au chalet. »"
+    },
+    {
+        mot: "chambre des joueurs",
+        type: "nom féminin",
+        definition: "Vestiaire.",
+        signification: "Local pour les sportifs.",
+        contexte: "Sport.",
+        exemple: "« Y'est dans la chambre des joueurs. »"
+    },
+    {
+        mot: "draveur",
+        type: "nom masculin",
+        definition: "Bûcheron qui guide les billots sur l'eau.",
+        signification: "Métier traditionnel.",
+        contexte: "Histoire.",
+        exemple: "« Mon arrière-grand-père était draveur. »"
+    },
+    {
+        mot: "feu de camp",
+        type: "nom masculin",
+        definition: "Feu en plein air.",
+        signification: "Pour se réchauffer ou cuire.",
+        contexte: "Camping.",
+        exemple: "« On fait un feu de camp à soir. »"
+    },
+    {
+        mot: "game",
+        type: "nom féminin",
+        definition: "Partie, match.",
+        signification: "De l'anglais.",
+        contexte: "Sport.",
+        exemple: "« Y'a une game des Canadiens à soir. »"
+    },
+    {
+        mot: "goalkeeper",
+        type: "nom masculin",
+        definition: "Gardien de but.",
+        signification: "Goaler.",
+        contexte: "Hockey.",
+        exemple: "« Le goalkeeper a fait 40 arrêts. »"
+    },
+    {
+        mot: "hockey bottine",
+        type: "nom masculin",
+        definition: "Hockey de rue, informel.",
+        signification: "Hockey sans équipement.",
+        contexte: "Sport.",
+        exemple: "« On joue au hockey bottine dans rue. »"
+    },
+    {
+        mot: "motoneige",
+        type: "nom féminin",
+        definition: "Véhicule pour la neige, skidoo.",
+        signification: "Engin motorisé.",
+        contexte: "Loisir.",
+        exemple: "« On fait de la motoneige en hiver. »"
+    },
+    {
+        mot: "patiner",
+        type: "verbe",
+        definition: "Faire du patin, ou éviter de répondre.",
+        signification: "Glisser sur glace ou esquiver.",
+        contexte: "Sport/Discussion.",
+        exemple: "« Y patine pour pas répondre. »"
+    },
+    {
+        mot: "pêche blanche",
+        type: "nom féminin",
+        definition: "Pêche sur la glace.",
+        signification: "Pêche hivernale.",
+        contexte: "Loisir.",
+        exemple: "« On fait de la pêche blanche sur le lac. »"
+    },
+    {
+        mot: "période",
+        type: "nom féminin",
+        definition: "Tiers d'un match de hockey.",
+        signification: "Division du match.",
+        contexte: "Hockey.",
+        exemple: "« Y reste 5 minutes à la troisième période. »"
+    },
+    {
+        mot: "quatre-roues",
+        type: "nom masculin",
+        definition: "VTT, quad.",
+        signification: "Véhicule tout-terrain.",
+        contexte: "Loisir.",
+        exemple: "« Y fait du quatre-roues dans le bois. »"
+    },
+    {
+        mot: "rondelle",
+        type: "nom féminin",
+        definition: "Puck de hockey.",
+        signification: "Disque de caoutchouc.",
+        contexte: "Hockey.",
+        exemple: "« La rondelle est dans le filet! »"
+    },
+    {
+        mot: "zamboni",
+        type: "nom masculin",
+        definition: "Surfaceuse de glace.",
+        signification: "Machine à nettoyer la patinoire.",
+        contexte: "Hockey.",
+        exemple: "« Le zamboni passe entre les périodes. »"
+    },
+    
+    // --- FAMILLE ET RELATIONS ---
+    {
+        mot: "beau-frère",
+        type: "nom masculin",
+        definition: "Frère du conjoint, ou stéréotype d'homme sans classe.",
+        signification: "Relation familiale ou péjoratif.",
+        contexte: "Famille/Insulte.",
+        exemple: "« Y'est habillé en beau-frère. »"
+    },
+    {
+        mot: "bécoter",
+        type: "verbe",
+        definition: "Embrasser, faire des bisous.",
+        signification: "Donner des becs.",
+        contexte: "Affection.",
+        exemple: "« Y arrêtent pas de se bécoter. »"
+    },
+    {
+        mot: "bec",
+        type: "nom masculin",
+        definition: "Bisou, baiser.",
+        signification: "Petit baiser.",
+        contexte: "Affection.",
+        exemple: "« Donne-moi un bec. »"
+    },
+    {
+        mot: "belle-mère",
+        type: "nom féminin",
+        definition: "Mère du conjoint.",
+        signification: "Relation familiale.",
+        contexte: "Famille.",
+        exemple: "« Ma belle-mère vient souper. »"
+    },
+    {
+        mot: "catin",
+        type: "nom féminin",
+        definition: "Poupée.",
+        signification: "Jouet d'enfant.",
+        contexte: "Jouet.",
+        exemple: "« A joue avec sa catin. »"
+    },
+    {
+        mot: "chambreur",
+        type: "nom masculin",
+        definition: "Locataire d'une chambre.",
+        signification: "Personne qui loue une pièce.",
+        contexte: "Logement.",
+        exemple: "« On a un chambreur au sous-sol. »"
+    },
+    {
+        mot: "coloc",
+        type: "nom",
+        definition: "Colocataire.",
+        signification: "Personne qui partage un logement.",
+        contexte: "Logement.",
+        exemple: "« Mon coloc est parti. »"
+    },
+    {
+        mot: "créature",
+        type: "nom féminin",
+        definition: "Femme (vieilli ou péjoratif).",
+        signification: "Terme vieillot.",
+        contexte: "Personne.",
+        exemple: "« C'est une belle créature. »"
+    },
+    {
+        mot: "fréquentation",
+        type: "nom féminin",
+        definition: "Relation amoureuse, dating.",
+        signification: "Période de cour.",
+        contexte: "Relation.",
+        exemple: "« Y sont en fréquentation. »"
+    },
+    {
+        mot: "gardienne",
+        type: "nom féminin",
+        definition: "Baby-sitter.",
+        signification: "Personne qui garde les enfants.",
+        contexte: "Famille.",
+        exemple: "« La gardienne arrive à 7h. »"
+    },
+    {
+        mot: "grand-moman",
+        type: "nom féminin",
+        definition: "Grand-mère.",
+        signification: "Terme affectueux.",
+        contexte: "Famille.",
+        exemple: "« Grand-moman fait des bons biscuits. »"
+    },
+    {
+        mot: "grand-popa",
+        type: "nom masculin",
+        definition: "Grand-père.",
+        signification: "Terme affectueux.",
+        contexte: "Famille.",
+        exemple: "« Grand-popa raconte des histoires. »"
+    },
+    {
+        mot: "matante",
+        type: "nom féminin",
+        definition: "Tante, ou femme conservatrice.",
+        signification: "Famille ou stéréotype.",
+        contexte: "Famille.",
+        exemple: "« Ma matante de Québec arrive. »"
+    },
+    {
+        mot: "mononcle",
+        type: "nom masculin",
+        definition: "Oncle, ou homme dépassé.",
+        signification: "Famille ou stéréotype.",
+        contexte: "Famille.",
+        exemple: "« C'est une joke de mononcle. »"
+    },
+    {
+        mot: "mémère",
+        type: "nom féminin",
+        definition: "Grand-mère, ou femme commère.",
+        signification: "Aînée ou cancanière.",
+        contexte: "Famille.",
+        exemple: "« Fais pas ta mémère! »"
+    },
+    {
+        mot: "pépère",
+        type: "nom masculin",
+        definition: "Grand-père, ou tranquille.",
+        signification: "Aîné ou calme.",
+        contexte: "Famille/Adjectif.",
+        exemple: "« On a passé une soirée pépère. »"
+    },
+    {
+        mot: "pouponne",
+        type: "nom féminin",
+        definition: "Bébé, poupon.",
+        signification: "Terme affectueux.",
+        contexte: "Famille.",
+        exemple: "« La p'tite pouponne est cute! »"
+    },
+    {
+        mot: "ti-cul",
+        type: "nom masculin",
+        definition: "Jeune enfant, petit gars.",
+        signification: "Enfant ou jeune.",
+        contexte: "Famille.",
+        exemple: "« Le ti-cul veut jouer dehors. »"
+    },
+    {
+        mot: "veuve",
+        type: "nom féminin",
+        definition: "Femme dont le mari joue au hockey.",
+        signification: "Veuve de hockey.",
+        contexte: "Humour.",
+        exemple: "« Les veuves de hockey se réunissent. »"
+    },
+    
+    // --- ÉMOTIONS ET ÉTATS ---
+    {
+        mot: "abrier",
+        type: "verbe",
+        definition: "Couvrir, mettre une couverture.",
+        signification: "Recouvrir.",
+        contexte: "Action.",
+        exemple: "« Abrie-toi ben. »"
+    },
+    {
+        mot: "avoir hâte",
+        type: "expression",
+        definition: "Être impatient, attendre avec impatience.",
+        signification: "Désirer ardemment.",
+        contexte: "Émotion.",
+        exemple: "« J'ai hâte aux vacances! »"
+    },
+    {
+        mot: "badluck",
+        type: "nom féminin",
+        definition: "Malchance.",
+        signification: "De l'anglais.",
+        contexte: "Chance.",
+        exemple: "« C'est la badluck! »"
+    },
+    {
+        mot: "bleu",
+        type: "adjectif",
+        definition: "Triste, déprimé.",
+        signification: "De l'anglais 'blue'.",
+        contexte: "Émotion.",
+        exemple: "« Chus bleu à soir. »"
+    },
+    {
+        mot: "brûler",
+        type: "verbe",
+        definition: "Être très pressé.",
+        signification: "Être en urgence.",
+        contexte: "Urgence.",
+        exemple: "« Ça brûle, faut partir! »"
+    },
+    {
+        mot: "capoter",
+        type: "verbe",
+        definition: "Devenir fou, ou être excité.",
+        signification: "Perdre la tête.",
+        contexte: "Émotion.",
+        exemple: "« J'ai capoté quand j'ai vu ça! »"
+    },
+    {
+        mot: "chanter la pomme",
+        type: "expression",
+        definition: "Flirter, draguer.",
+        signification: "Faire la cour.",
+        contexte: "Séduction.",
+        exemple: "« Y'est en train d'y chanter la pomme. »"
+    },
+    {
+        mot: "chigner",
+        type: "verbe",
+        definition: "Pleurnicher, se plaindre.",
+        signification: "Geindre.",
+        contexte: "Plainte.",
+        exemple: "« Arrête de chigner! »"
+    },
+    {
+        mot: "écoeuré",
+        type: "adjectif",
+        definition: "Dégouté, en avoir marre.",
+        signification: "Excédé.",
+        contexte: "Émotion.",
+        exemple: "« Chus écoeuré de cette situation. »"
+    },
+    {
+        mot: "enragé",
+        type: "adjectif",
+        definition: "Très en colère.",
+        signification: "Furieux.",
+        contexte: "Colère.",
+        exemple: "« Y'est enragé noir! »"
+    },
+    {
+        mot: "être dans sa bulle",
+        type: "expression",
+        definition: "Être distrait, perdu dans ses pensées.",
+        signification: "Ne pas être attentif.",
+        contexte: "Distraction.",
+        exemple: "« Y'est dans sa bulle. »"
+    },
+    {
+        mot: "être su'l piton",
+        type: "expression",
+        definition: "Être en forme, alerte.",
+        signification: "Être au top.",
+        contexte: "Énergie.",
+        exemple: "« Chus su'l piton à matin! »"
+    },
+    {
+        mot: "excité comme une puce",
+        type: "expression",
+        definition: "Très excité, énervé.",
+        signification: "Plein d'énergie.",
+        contexte: "Émotion.",
+        exemple: "« Y'est excité comme une puce! »"
+    },
+    {
+        mot: "fâché noir",
+        type: "expression",
+        definition: "Très fâché.",
+        signification: "En grande colère.",
+        contexte: "Colère.",
+        exemple: "« Y'est fâché noir! »"
+    },
+    {
+        mot: "fatigué mort",
+        type: "expression",
+        definition: "Extrêmement fatigué.",
+        signification: "Épuisé.",
+        contexte: "Fatigue.",
+        exemple: "« Chus fatigué mort. »"
+    },
+    {
+        mot: "feelé",
+        type: "adjectif",
+        definition: "Un peu fou, bizarre.",
+        signification: "Dérangé.",
+        contexte: "Caractère.",
+        exemple: "« Y'est pas mal feelé. »"
+    },
+    {
+        mot: "fou comme un balai",
+        type: "expression",
+        definition: "Complètement fou.",
+        signification: "Dérangé.",
+        contexte: "Caractère.",
+        exemple: "« Y'est fou comme un balai! »"
+    },
+    {
+        mot: "gelé",
+        type: "adjectif",
+        definition: "Sous l'effet de drogues.",
+        signification: "Intoxiqué.",
+        contexte: "Drogue.",
+        exemple: "« Y'est complètement gelé. »"
+    },
+    {
+        mot: "gêné",
+        type: "adjectif",
+        definition: "Timide, embarrassé.",
+        signification: "Mal à l'aise.",
+        contexte: "Émotion.",
+        exemple: "« Fais-toi pas gêné! »"
+    },
+    {
+        mot: "mal pris",
+        type: "adjectif",
+        definition: "En difficulté, coincé.",
+        signification: "Dans une mauvaise situation.",
+        contexte: "Problème.",
+        exemple: "« Chus mal pris. »"
+    },
+    {
+        mot: "paqueté",
+        type: "adjectif",
+        definition: "Très saoul.",
+        signification: "Ivre.",
+        contexte: "Alcool.",
+        exemple: "« Y'est paqueté ben raide. »"
+    },
+    {
+        mot: "pompé",
+        type: "adjectif",
+        definition: "Excité, motivé.",
+        signification: "Plein d'énergie.",
+        contexte: "Émotion.",
+        exemple: "« Chus pompé pour le show! »"
+    },
+    {
+        mot: "rond",
+        type: "adjectif",
+        definition: "Saoul.",
+        signification: "Ivre.",
+        contexte: "Alcool.",
+        exemple: "« Y'est rond comme une balle. »"
+    },
+    {
+        mot: "saoul",
+        type: "adjectif",
+        definition: "Ivre.",
+        signification: "Sous l'effet de l'alcool.",
+        contexte: "Alcool.",
+        exemple: "« Y'est saoul mort. »"
+    },
+    {
+        mot: "stressé",
+        type: "adjectif",
+        definition: "Anxieux, nerveux.",
+        signification: "Tendu.",
+        contexte: "Émotion.",
+        exemple: "« Chus stressé pour l'examen. »"
+    },
+    {
+        mot: "su'l cul",
+        type: "expression",
+        definition: "Très surpris, renversé.",
+        signification: "Étonné.",
+        contexte: "Surprise.",
+        exemple: "« Chus resté su'l cul! »"
+    },
+    {
+        mot: "surpris",
+        type: "adjectif",
+        definition: "Étonné.",
+        signification: "Pris au dépourvu.",
+        contexte: "Émotion.",
+        exemple: "« J'étais surpris de le voir. »"
+    },
+    {
+        mot: "tombé en bas de sa chaise",
+        type: "expression",
+        definition: "Très surpris.",
+        signification: "Stupéfait.",
+        contexte: "Surprise.",
+        exemple: "« J'ai tombé en bas de ma chaise! »"
+    },
+    {
+        mot: "viré fou",
+        type: "expression",
+        definition: "Devenu fou.",
+        signification: "A perdu la tête.",
+        contexte: "Folie.",
+        exemple: "« Y'a viré fou! »"
     }
 ];
 
