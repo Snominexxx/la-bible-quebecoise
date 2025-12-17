@@ -10931,6 +10931,696 @@ const dictionnaire = [
         signification: "A perdu la tête.",
         contexte: "Folie.",
         exemple: "« Y'a viré fou! »"
+    },
+
+    // === 100 NOUVEAUX MOTS - VARIÉS ===
+    
+    // --- TRANSPORT ET AUTOMOBILE ---
+    {
+        mot: "aubaine",
+        type: "nom féminin",
+        definition: "Bonne affaire, solde.",
+        signification: "Prix avantageux.",
+        contexte: "Commerce.",
+        exemple: "« J'ai trouvé une aubaine! »"
+    },
+    {
+        mot: "autobus",
+        type: "nom masculin",
+        definition: "Bus.",
+        signification: "Transport en commun.",
+        contexte: "Transport.",
+        exemple: "« Je prends l'autobus pour aller travailler. »"
+    },
+    {
+        mot: "brake",
+        type: "nom masculin",
+        definition: "Frein.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Les brakes sont usés. »"
+    },
+    {
+        mot: "bumper",
+        type: "nom masculin",
+        definition: "Pare-chocs.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Le bumper est tout poqué. »"
+    },
+    {
+        mot: "char",
+        type: "nom masculin",
+        definition: "Voiture, automobile.",
+        signification: "Véhicule.",
+        contexte: "Transport.",
+        exemple: "« Mon char part pus. »"
+    },
+    {
+        mot: "clutch",
+        type: "nom féminin",
+        definition: "Embrayage.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« La clutch est brûlée. »"
+    },
+    {
+        mot: "dash",
+        type: "nom masculin",
+        definition: "Tableau de bord.",
+        signification: "De l'anglais 'dashboard'.",
+        contexte: "Auto.",
+        exemple: "« Y'a une lumière sur le dash. »"
+    },
+    {
+        mot: "flat",
+        type: "nom masculin",
+        definition: "Crevaison, pneu crevé.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« J'ai pogné un flat. »"
+    },
+    {
+        mot: "gaz",
+        type: "nom masculin",
+        definition: "Essence.",
+        signification: "Carburant.",
+        contexte: "Auto.",
+        exemple: "« Faut mettre du gaz. »"
+    },
+    {
+        mot: "hood",
+        type: "nom masculin",
+        definition: "Capot.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Ouvre le hood. »"
+    },
+    {
+        mot: "licence",
+        type: "nom féminin",
+        definition: "Permis de conduire, ou plaque.",
+        signification: "Document ou immatriculation.",
+        contexte: "Auto.",
+        exemple: "« J'ai oublié ma licence. »"
+    },
+    {
+        mot: "lift",
+        type: "nom masculin",
+        definition: "Transport gratuit en voiture.",
+        signification: "Covoiturage.",
+        contexte: "Transport.",
+        exemple: "« Tu me donnes-tu un lift? »"
+    },
+    {
+        mot: "muffler",
+        type: "nom masculin",
+        definition: "Silencieux d'échappement.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Le muffler est percé. »"
+    },
+    {
+        mot: "parker",
+        type: "verbe",
+        definition: "Stationner.",
+        signification: "De l'anglais 'to park'.",
+        contexte: "Auto.",
+        exemple: "« J'ai parké en double. »"
+    },
+    {
+        mot: "pimp",
+        type: "adjectif",
+        definition: "Personnalisé, amélioré.",
+        signification: "Customisé.",
+        contexte: "Auto.",
+        exemple: "« Son char est tout pimpé. »"
+    },
+    {
+        mot: "rouler",
+        type: "verbe",
+        definition: "Conduire, avancer.",
+        signification: "Se déplacer en véhicule.",
+        contexte: "Transport.",
+        exemple: "« On roule depuis 3 heures. »"
+    },
+    {
+        mot: "spare",
+        type: "nom masculin",
+        definition: "Pneu de secours, ou surplus.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Sors le spare du coffre. »"
+    },
+    {
+        mot: "steering",
+        type: "nom masculin",
+        definition: "Volant.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Le steering est dur. »"
+    },
+    {
+        mot: "tank",
+        type: "nom masculin",
+        definition: "Réservoir d'essence.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Le tank est vide. »"
+    },
+    {
+        mot: "tirer",
+        type: "verbe",
+        definition: "Remorquer.",
+        signification: "Tracter un véhicule.",
+        contexte: "Auto.",
+        exemple: "« Faut faire tirer mon char. »"
+    },
+    {
+        mot: "towing",
+        type: "nom masculin",
+        definition: "Remorquage.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« J'ai appelé le towing. »"
+    },
+    {
+        mot: "transmission",
+        type: "nom féminin",
+        definition: "Boîte de vitesses.",
+        signification: "Mécanisme de changement.",
+        contexte: "Auto.",
+        exemple: "« La transmission est finie. »"
+    },
+    {
+        mot: "truck",
+        type: "nom masculin",
+        definition: "Camion, pick-up.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Y conduit un gros truck. »"
+    },
+    {
+        mot: "valise",
+        type: "nom féminin",
+        definition: "Coffre de voiture.",
+        signification: "Malle.",
+        contexte: "Auto.",
+        exemple: "« Mets ça dans la valise. »"
+    },
+    {
+        mot: "wiper",
+        type: "nom masculin",
+        definition: "Essuie-glace.",
+        signification: "De l'anglais.",
+        contexte: "Auto.",
+        exemple: "« Mes wipers marchent pus. »"
+    },
+    
+    // --- MAISON ET LOGEMENT ---
+    {
+        mot: "appartement",
+        type: "nom masculin",
+        definition: "Logement.",
+        signification: "Habitation.",
+        contexte: "Logement.",
+        exemple: "« J'ai un appartement sur Papineau. »"
+    },
+    {
+        mot: "auvent",
+        type: "nom masculin",
+        definition: "Abri au-dessus d'une porte ou fenêtre.",
+        signification: "Protection.",
+        contexte: "Maison.",
+        exemple: "« Y'a de la neige sur l'auvent. »"
+    },
+    {
+        mot: "balcon",
+        type: "nom masculin",
+        definition: "Balcon ou galerie.",
+        signification: "Plateforme extérieure.",
+        contexte: "Maison.",
+        exemple: "« Viens-tu sur le balcon? »"
+    },
+    {
+        mot: "bloc",
+        type: "nom masculin",
+        definition: "Immeuble à logements.",
+        signification: "Building.",
+        contexte: "Logement.",
+        exemple: "« Y reste dans le bloc d'en face. »"
+    },
+    {
+        mot: "cave",
+        type: "nom féminin",
+        definition: "Sous-sol.",
+        signification: "Basement.",
+        contexte: "Maison.",
+        exemple: "« Le linge est dans la cave. »"
+    },
+    {
+        mot: "chambre de bain",
+        type: "nom féminin",
+        definition: "Salle de bain.",
+        signification: "Bathroom.",
+        contexte: "Maison.",
+        exemple: "« La chambre de bain est en haut. »"
+    },
+    {
+        mot: "chassis",
+        type: "nom masculin",
+        definition: "Fenêtre.",
+        signification: "Ouverture vitrée.",
+        contexte: "Maison.",
+        exemple: "« Ferme le chassis, y fait frette. »"
+    },
+    {
+        mot: "condo",
+        type: "nom masculin",
+        definition: "Condominium.",
+        signification: "Appartement dont on est propriétaire.",
+        contexte: "Logement.",
+        exemple: "« Y s'est acheté un condo. »"
+    },
+    {
+        mot: "cour",
+        type: "nom féminin",
+        definition: "Jardin arrière.",
+        signification: "Backyard.",
+        contexte: "Maison.",
+        exemple: "« Les enfants jouent dans la cour. »"
+    },
+    {
+        mot: "divan",
+        type: "nom masculin",
+        definition: "Canapé, sofa.",
+        signification: "Meuble de salon.",
+        contexte: "Mobilier.",
+        exemple: "« Y dort sur le divan. »"
+    },
+    {
+        mot: "entrée",
+        type: "nom féminin",
+        definition: "Allée de garage.",
+        signification: "Driveway.",
+        contexte: "Maison.",
+        exemple: "« Déneige l'entrée. »"
+    },
+    {
+        mot: "fournaise",
+        type: "nom féminin",
+        definition: "Chaudière, système de chauffage.",
+        signification: "Furnace.",
+        contexte: "Maison.",
+        exemple: "« La fournaise marche pus. »"
+    },
+    {
+        mot: "galerie",
+        type: "nom féminin",
+        definition: "Balcon, véranda.",
+        signification: "Porch.",
+        contexte: "Maison.",
+        exemple: "« On jase sur la galerie. »"
+    },
+    {
+        mot: "garde-robe",
+        type: "nom féminin",
+        definition: "Placard, penderie.",
+        signification: "Closet.",
+        contexte: "Maison.",
+        exemple: "« Mets ton coat dans la garde-robe. »"
+    },
+    {
+        mot: "loyer",
+        type: "nom masculin",
+        definition: "Appartement ou prix du bail.",
+        signification: "Logement loué.",
+        contexte: "Logement.",
+        exemple: "« Mon loyer coûte cher. »"
+    },
+    {
+        mot: "perron",
+        type: "nom masculin",
+        definition: "Escalier extérieur, marches d'entrée.",
+        signification: "Steps.",
+        contexte: "Maison.",
+        exemple: "« Y'est assis sur le perron. »"
+    },
+    {
+        mot: "plancher",
+        type: "nom masculin",
+        definition: "Sol, parquet.",
+        signification: "Floor.",
+        contexte: "Maison.",
+        exemple: "« Lave le plancher. »"
+    },
+    {
+        mot: "shed",
+        type: "nom masculin",
+        definition: "Cabanon, remise.",
+        signification: "De l'anglais.",
+        contexte: "Maison.",
+        exemple: "« Les outils sont dans le shed. »"
+    },
+    {
+        mot: "sous-sol",
+        type: "nom masculin",
+        definition: "Cave, niveau inférieur.",
+        signification: "Basement.",
+        contexte: "Maison.",
+        exemple: "« Y'a un appartement au sous-sol. »"
+    },
+    {
+        mot: "tapis",
+        type: "nom masculin",
+        definition: "Moquette ou tapis.",
+        signification: "Carpet.",
+        contexte: "Maison.",
+        exemple: "« Le tapis est sale. »"
+    },
+    
+    // --- NOURRITURE ADDITIONNELLE ---
+    {
+        mot: "assiette froide",
+        type: "nom féminin",
+        definition: "Plat de viandes froides et salades.",
+        signification: "Cold cuts.",
+        contexte: "Cuisine.",
+        exemple: "« On mange une assiette froide à soir. »"
+    },
+    {
+        mot: "balloune",
+        type: "nom féminin",
+        definition: "Ballon, ou ventre de bière.",
+        signification: "Balloon ou bedaine.",
+        contexte: "Objet/Corps.",
+        exemple: "« Y'a une grosse balloune de bière. »"
+    },
+    {
+        mot: "beurre de peanut",
+        type: "nom masculin",
+        definition: "Beurre d'arachide.",
+        signification: "Peanut butter.",
+        contexte: "Alimentation.",
+        exemple: "« Du pain avec du beurre de peanut. »"
+    },
+    {
+        mot: "cenne",
+        type: "nom féminin",
+        definition: "Cent, sou.",
+        signification: "Pièce de monnaie.",
+        contexte: "Argent.",
+        exemple: "« J'ai pas une cenne. »"
+    },
+    {
+        mot: "chaudron",
+        type: "nom masculin",
+        definition: "Casserole, marmite.",
+        signification: "Pot de cuisine.",
+        contexte: "Cuisine.",
+        exemple: "« Mets le chaudron sur le poêle. »"
+    },
+    {
+        mot: "chips",
+        type: "nom féminin pluriel",
+        definition: "Croustilles.",
+        signification: "De l'anglais.",
+        contexte: "Alimentation.",
+        exemple: "« Un sac de chips. »"
+    },
+    {
+        mot: "coke diète",
+        type: "nom féminin",
+        definition: "Coca-Cola diète.",
+        signification: "Diet Coke.",
+        contexte: "Boisson.",
+        exemple: "« Une coke diète s'il vous plaît. »"
+    },
+    {
+        mot: "cornet de crème glacée",
+        type: "nom masculin",
+        definition: "Cône de glace.",
+        signification: "Ice cream cone.",
+        contexte: "Dessert.",
+        exemple: "« Un cornet de crème glacée au chocolat. »"
+    },
+    {
+        mot: "déjeuner",
+        type: "nom masculin",
+        definition: "Petit-déjeuner.",
+        signification: "Breakfast.",
+        contexte: "Repas.",
+        exemple: "« On déjeune à 8h. »"
+    },
+    {
+        mot: "dîner",
+        type: "nom masculin",
+        definition: "Repas du midi.",
+        signification: "Lunch.",
+        contexte: "Repas.",
+        exemple: "« C'est l'heure du dîner. »"
+    },
+    {
+        mot: "épicerie",
+        type: "nom féminin",
+        definition: "Courses, ou magasin d'alimentation.",
+        signification: "Groceries.",
+        contexte: "Commerce.",
+        exemple: "« J'vais faire l'épicerie. »"
+    },
+    {
+        mot: "liqueur",
+        type: "nom féminin",
+        definition: "Boisson gazeuse.",
+        signification: "Soft drink.",
+        contexte: "Boisson.",
+        exemple: "« Tu veux-tu une liqueur? »"
+    },
+    {
+        mot: "lunch",
+        type: "nom masculin",
+        definition: "Repas apporté, boîte à lunch.",
+        signification: "De l'anglais.",
+        contexte: "Repas.",
+        exemple: "« J'ai oublié mon lunch. »"
+    },
+    {
+        mot: "patate pilée",
+        type: "nom féminin",
+        definition: "Purée de pommes de terre.",
+        signification: "Mashed potatoes.",
+        contexte: "Cuisine.",
+        exemple: "« Des patates pilées avec de la sauce. »"
+    },
+    {
+        mot: "pogo",
+        type: "nom masculin",
+        definition: "Saucisse enrobée de pâte frite.",
+        signification: "Corn dog.",
+        contexte: "Alimentation.",
+        exemple: "« Un pogo avec de la moutarde. »"
+    },
+    {
+        mot: "restant",
+        type: "nom masculin",
+        definition: "Restes de nourriture.",
+        signification: "Leftovers.",
+        contexte: "Cuisine.",
+        exemple: "« On mange des restants à soir. »"
+    },
+    {
+        mot: "sirop de poteau",
+        type: "nom masculin",
+        definition: "Faux sirop d'érable.",
+        signification: "Sirop industriel.",
+        contexte: "Alimentation.",
+        exemple: "« C'est du sirop de poteau ça! »"
+    },
+    {
+        mot: "souper",
+        type: "nom masculin",
+        definition: "Repas du soir.",
+        signification: "Dinner.",
+        contexte: "Repas.",
+        exemple: "« Le souper est prêt! »"
+    },
+    {
+        mot: "toast",
+        type: "nom féminin",
+        definition: "Rôtie, pain grillé.",
+        signification: "De l'anglais.",
+        contexte: "Déjeuner.",
+        exemple: "« Des toasts avec du beurre. »"
+    },
+    {
+        mot: "viande à chien",
+        type: "nom féminin",
+        definition: "Viande hachée bon marché.",
+        signification: "Viande de mauvaise qualité.",
+        contexte: "Alimentation.",
+        exemple: "« C'est de la viande à chien ça! »"
+    },
+    
+    // --- EXPRESSIONS COLORÉES ---
+    {
+        mot: "avoir du chemin à faire",
+        type: "expression",
+        definition: "Avoir beaucoup à apprendre.",
+        signification: "Manquer d'expérience.",
+        contexte: "Apprentissage.",
+        exemple: "« T'as du chemin à faire! »"
+    },
+    {
+        mot: "avoir la tête enflée",
+        type: "expression",
+        definition: "Être prétentieux.",
+        signification: "Avoir la grosse tête.",
+        contexte: "Caractère.",
+        exemple: "« Y'a la tête enflée depuis sa promotion. »"
+    },
+    {
+        mot: "c'est pas la fin du monde",
+        type: "expression",
+        definition: "Ce n'est pas grave.",
+        signification: "Relativiser.",
+        contexte: "Consolation.",
+        exemple: "« C'est pas la fin du monde! »"
+    },
+    {
+        mot: "c'est pas sorcier",
+        type: "expression",
+        definition: "C'est facile.",
+        signification: "Pas compliqué.",
+        contexte: "Facilité.",
+        exemple: "« C'est pas sorcier, tu vas voir. »"
+    },
+    {
+        mot: "ça a pas d'allure",
+        type: "expression",
+        definition: "C'est absurde, n'a pas de sens.",
+        signification: "Inacceptable.",
+        contexte: "Critique.",
+        exemple: "« Ça a pas d'allure ce prix-là! »"
+    },
+    {
+        mot: "ça fait la job",
+        type: "expression",
+        definition: "C'est suffisant.",
+        signification: "Ça fonctionne.",
+        contexte: "Satisfaction.",
+        exemple: "« C'est pas parfait mais ça fait la job. »"
+    },
+    {
+        mot: "ça me dit quelque chose",
+        type: "expression",
+        definition: "Ça me semble familier.",
+        signification: "Je reconnais.",
+        contexte: "Mémoire.",
+        exemple: "« Ton nom, ça me dit quelque chose. »"
+    },
+    {
+        mot: "ça prend pas la tête à Papineau",
+        type: "expression",
+        definition: "Pas besoin d'être un génie.",
+        signification: "C'est facile à comprendre.",
+        contexte: "Intelligence.",
+        exemple: "« Ça prend pas la tête à Papineau! »"
+    },
+    {
+        mot: "ça tient pas debout",
+        type: "expression",
+        definition: "C'est illogique.",
+        signification: "Ça n'a pas de sens.",
+        contexte: "Logique.",
+        exemple: "« Ton histoire ça tient pas debout. »"
+    },
+    {
+        mot: "cherche pas de midi à quatorze heures",
+        type: "expression",
+        definition: "Ne complique pas les choses.",
+        signification: "Reste simple.",
+        contexte: "Conseil.",
+        exemple: "« Cherche pas de midi à quatorze heures. »"
+    },
+    {
+        mot: "coudon",
+        type: "interjection",
+        definition: "Donc, alors, mais.",
+        signification: "Expression de surprise ou conclusion.",
+        contexte: "Conversation.",
+        exemple: "« Coudon, qu'est-ce qui se passe? »"
+    },
+    {
+        mot: "envoye donc",
+        type: "expression",
+        definition: "Allez, vas-y.",
+        signification: "Encouragement.",
+        contexte: "Encouragement.",
+        exemple: "« Envoye donc, essaie-le! »"
+    },
+    {
+        mot: "être aux oiseaux",
+        type: "expression",
+        definition: "Être très content.",
+        signification: "Être ravi.",
+        contexte: "Bonheur.",
+        exemple: "« A l'est aux oiseaux! »"
+    },
+    {
+        mot: "être de bonne heure sur le piton",
+        type: "expression",
+        definition: "Être matinal.",
+        signification: "Se lever tôt.",
+        contexte: "Matin.",
+        exemple: "« T'es de bonne heure sur le piton! »"
+    },
+    {
+        mot: "être sur son X",
+        type: "expression",
+        definition: "Être à son meilleur.",
+        signification: "Être en forme.",
+        contexte: "Performance.",
+        exemple: "« Y'était sur son X hier! »"
+    },
+    {
+        mot: "faire un fou de soi",
+        type: "expression",
+        definition: "Se ridiculiser.",
+        signification: "Avoir l'air fou.",
+        contexte: "Embarras.",
+        exemple: "« J'ai fait un fou de moi. »"
+    },
+    {
+        mot: "mets-en",
+        type: "expression",
+        definition: "Absolument, et comment!",
+        signification: "Forte affirmation.",
+        contexte: "Accord.",
+        exemple: "« C'est bon? - Mets-en! »"
+    },
+    {
+        mot: "mon Dieu Seigneur",
+        type: "expression",
+        definition: "Expression de surprise.",
+        signification: "Oh mon Dieu.",
+        contexte: "Surprise.",
+        exemple: "« Mon Dieu Seigneur, qu'est-ce qui s'est passé? »"
+    },
+    {
+        mot: "pour vrai",
+        type: "expression",
+        definition: "Vraiment, sérieusement.",
+        signification: "For real.",
+        contexte: "Affirmation.",
+        exemple: "« Tu me niaises-tu? Pour vrai? »"
+    },
+    {
+        mot: "voyons donc",
+        type: "expression",
+        definition: "Expression d'incrédulité ou surprise.",
+        signification: "Allons donc.",
+        contexte: "Surprise.",
+        exemple: "« Voyons donc, c'est pas vrai! »"
     }
 ];
 
