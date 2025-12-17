@@ -7841,6 +7841,934 @@ const dictionnaire = [
         signification: "De l'anglais 'to update'.",
         contexte: "Informatique.",
         exemple: "« Faut updater ton ordi. »"
+    },
+
+    // === 100 MOTS SIMPLES - VERBES, ADJECTIFS, SYNONYMES ===
+    
+    // --- VERBES COURANTS ---
+    {
+        mot: "achaler",
+        type: "verbe",
+        definition: "Ennuyer, agacer, déranger.",
+        signification: "Importuner quelqu'un.",
+        contexte: "Dérangement.",
+        exemple: "« Arrête de m'achaler! »"
+    },
+    {
+        mot: "barrer",
+        type: "verbe",
+        definition: "Verrouiller, fermer à clé.",
+        signification: "Fermer une porte à clé.",
+        contexte: "Sécurité.",
+        exemple: "« Barre la porte avant de partir. »"
+    },
+    {
+        mot: "débarrer",
+        type: "verbe",
+        definition: "Déverrouiller, ouvrir.",
+        signification: "Contraire de barrer.",
+        contexte: "Action.",
+        exemple: "« Débarre la porte, j'arrive! »"
+    },
+    {
+        mot: "barouetter",
+        type: "verbe",
+        definition: "Promener en voiture, transporter.",
+        signification: "Balader quelqu'un.",
+        contexte: "Transport.",
+        exemple: "« J'ai barouetté les enfants toute la journée. »"
+    },
+    {
+        mot: "beurrer",
+        type: "verbe",
+        definition: "Étaler du beurre, ou salir.",
+        signification: "Tartiner ou faire des dégâts.",
+        contexte: "Cuisine/Dégâts.",
+        exemple: "« Beurre ton pain. » ou « Y'a beurré le plancher. »"
+    },
+    {
+        mot: "boquer",
+        type: "verbe",
+        definition: "Bouder, refuser obstinément.",
+        signification: "Être têtu.",
+        contexte: "Comportement.",
+        exemple: "« Arrête de boquer pis viens souper! »"
+    },
+    {
+        mot: "bretter",
+        type: "verbe",
+        definition: "Perdre son temps, niaiser.",
+        signification: "Traîner, lambiner.",
+        contexte: "Temps.",
+        exemple: "« Arrête de bretter pis finis ton travail! »"
+    },
+    {
+        mot: "chialer",
+        type: "verbe",
+        definition: "Se plaindre, râler.",
+        signification: "Rouspéter constamment.",
+        contexte: "Plainte.",
+        exemple: "« Y fait juste chialer! »"
+    },
+    {
+        mot: "clairer",
+        type: "verbe",
+        definition: "Nettoyer, faire le ménage.",
+        signification: "Débarrasser, ranger.",
+        contexte: "Ménage.",
+        exemple: "« Claire ta chambre! »"
+    },
+    {
+        mot: "cogner",
+        type: "verbe",
+        definition: "Frapper à la porte.",
+        signification: "Toquer.",
+        contexte: "Action.",
+        exemple: "« Y'a quelqu'un qui cogne à porte. »"
+    },
+    {
+        mot: "crouser",
+        type: "verbe",
+        definition: "Draguer, courtiser.",
+        signification: "Faire la cour.",
+        contexte: "Séduction.",
+        exemple: "« Y crouse toutes les filles du bureau. »"
+    },
+    {
+        mot: "décrisser",
+        type: "verbe",
+        definition: "Partir rapidement, dégager.",
+        signification: "S'en aller vite.",
+        contexte: "Départ.",
+        exemple: "« Décrisse de là! »"
+    },
+    {
+        mot: "déniaser",
+        type: "verbe",
+        definition: "Éduquer, dégourdir quelqu'un.",
+        signification: "Rendre moins naïf.",
+        contexte: "Éducation.",
+        exemple: "« Faut le déniaser un peu. »"
+    },
+    {
+        mot: "écrapoutir",
+        type: "verbe",
+        definition: "Écraser complètement.",
+        signification: "Aplatir.",
+        contexte: "Action.",
+        exemple: "« Y'a écrapoutit la canette. »"
+    },
+    {
+        mot: "enfarger",
+        type: "verbe",
+        definition: "Trébucher, faire tomber.",
+        signification: "Faire un croc-en-jambe.",
+        contexte: "Chute.",
+        exemple: "« J'me suis enfargé dans le tapis. »"
+    },
+    {
+        mot: "enweiller",
+        type: "verbe",
+        definition: "Allez, dépêche-toi.",
+        signification: "Encourager à agir vite.",
+        contexte: "Encouragement.",
+        exemple: "« Enweille, on va être en retard! »"
+    },
+    {
+        mot: "fesser",
+        type: "verbe",
+        definition: "Frapper fort.",
+        signification: "Donner un coup.",
+        contexte: "Action.",
+        exemple: "« Y'a fessé dans le mur. »"
+    },
+    {
+        mot: "flusher",
+        type: "verbe",
+        definition: "Tirer la chasse, ou jeter quelqu'un.",
+        signification: "Éliminer, rejeter.",
+        contexte: "Action.",
+        exemple: "« A l'a flushé son chum. »"
+    },
+    {
+        mot: "fouiner",
+        type: "verbe",
+        definition: "Fureter, chercher partout.",
+        signification: "Être curieux.",
+        contexte: "Curiosité.",
+        exemple: "« Arrête de fouiner dans mes affaires! »"
+    },
+    {
+        mot: "garrocher",
+        type: "verbe",
+        definition: "Lancer, jeter.",
+        signification: "Envoyer quelque chose.",
+        contexte: "Action.",
+        exemple: "« Garroche-moi la balle! »"
+    },
+    {
+        mot: "gosser",
+        type: "verbe",
+        definition: "Bricoler, ou agacer.",
+        signification: "Travailler maladroitement ou énerver.",
+        contexte: "Action/Dérangement.",
+        exemple: "« Y gosse sur son projet. » ou « Arrête de me gosser! »"
+    },
+    {
+        mot: "grafigner",
+        type: "verbe",
+        definition: "Égratigner, griffer.",
+        signification: "Faire une éraflure.",
+        contexte: "Blessure.",
+        exemple: "« Le chat m'a grafigné. »"
+    },
+    {
+        mot: "maganer",
+        type: "verbe",
+        definition: "Abîmer, endommager, épuiser.",
+        signification: "User, fatiguer.",
+        contexte: "Dégradation.",
+        exemple: "« T'as magané mes outils! »"
+    },
+    {
+        mot: "mêler",
+        type: "verbe",
+        definition: "Confondre, embrouiller.",
+        signification: "Rendre confus.",
+        contexte: "Confusion.",
+        exemple: "« Tu me mêles avec tes explications. »"
+    },
+    {
+        mot: "niaiser",
+        type: "verbe",
+        definition: "Perdre son temps, ou se moquer.",
+        signification: "Plaisanter ou traîner.",
+        contexte: "Action.",
+        exemple: "« Arrête de niaiser! »"
+    },
+    {
+        mot: "péter",
+        type: "verbe",
+        definition: "Casser, briser.",
+        signification: "Endommager.",
+        contexte: "Dégât.",
+        exemple: "« J'ai pété mon cell. »"
+    },
+    {
+        mot: "pitonner",
+        type: "verbe",
+        definition: "Appuyer sur des boutons, zapper.",
+        signification: "Utiliser une télécommande.",
+        contexte: "Technologie.",
+        exemple: "« Arrête de pitonner, choisis un poste! »"
+    },
+    {
+        mot: "placoter",
+        type: "verbe",
+        definition: "Bavarder, jaser.",
+        signification: "Parler de tout et de rien.",
+        contexte: "Conversation.",
+        exemple: "« On a placoté pendant des heures. »"
+    },
+    {
+        mot: "pogner",
+        type: "verbe",
+        definition: "Attraper, prendre, réussir.",
+        signification: "Saisir ou avoir du succès.",
+        contexte: "Action.",
+        exemple: "« J'ai pogné le bus. » ou « Y pogne avec les filles. »"
+    },
+    {
+        mot: "quêter",
+        type: "verbe",
+        definition: "Mendier, demander.",
+        signification: "Solliciter.",
+        contexte: "Demande.",
+        exemple: "« Y passe son temps à quêter des lifts. »"
+    },
+    {
+        mot: "radoter",
+        type: "verbe",
+        definition: "Répéter sans cesse la même chose.",
+        signification: "Rabâcher.",
+        contexte: "Parole.",
+        exemple: "« Mon grand-père radote toujours les mêmes histoires. »"
+    },
+    {
+        mot: "ramasser",
+        type: "verbe",
+        definition: "Prendre, cueillir, ou réprimander.",
+        signification: "Collecter ou engueuler.",
+        contexte: "Action.",
+        exemple: "« Y s'est fait ramasser par son boss. »"
+    },
+    {
+        mot: "revirer",
+        type: "verbe",
+        definition: "Retourner, faire demi-tour.",
+        signification: "Changer de direction.",
+        contexte: "Mouvement.",
+        exemple: "« Revire de bord! »"
+    },
+    {
+        mot: "sacrer",
+        type: "verbe",
+        definition: "Jurer, blasphémer, ou jeter.",
+        signification: "Dire des sacres ou lancer.",
+        contexte: "Juron/Action.",
+        exemple: "« Y sacre comme un charretier. » ou « Sacre ça aux vidanges! »"
+    },
+    {
+        mot: "slacker",
+        type: "verbe",
+        definition: "Ralentir, relâcher.",
+        signification: "Diminuer l'effort.",
+        contexte: "Travail.",
+        exemple: "« Slacke un peu, tu travailles trop! »"
+    },
+    {
+        mot: "spotler",
+        type: "verbe",
+        definition: "Repérer, apercevoir.",
+        signification: "Remarquer quelqu'un.",
+        contexte: "Observation.",
+        exemple: "« J'l'ai spotté au centre d'achats. »"
+    },
+    {
+        mot: "tanner",
+        type: "verbe",
+        definition: "Ennuyer, fatiguer quelqu'un.",
+        signification: "Importuner.",
+        contexte: "Dérangement.",
+        exemple: "« Tu me tannes avec tes questions! »"
+    },
+    {
+        mot: "toffer",
+        type: "verbe",
+        definition: "Endurer, tenir le coup.",
+        signification: "Supporter.",
+        contexte: "Endurance.",
+        exemple: "« J'suis pas capable de toffer ça. »"
+    },
+    {
+        mot: "virer",
+        type: "verbe",
+        definition: "Tourner, devenir.",
+        signification: "Changer de direction ou d'état.",
+        contexte: "Changement.",
+        exemple: "« Vire à gauche. » ou « Y'a viré fou! »"
+    },
+    {
+        mot: "zigonner",
+        type: "verbe",
+        definition: "Bricoler maladroitement, hésiter.",
+        signification: "Tâtonner.",
+        contexte: "Action.",
+        exemple: "« Arrête de zigonner pis décide-toi! »"
+    },
+    
+    // --- ADJECTIFS COURANTS ---
+    {
+        mot: "achalant",
+        type: "adjectif",
+        definition: "Agaçant, énervant.",
+        signification: "Qui dérange.",
+        contexte: "Description.",
+        exemple: "« Y'est tellement achalant! »"
+    },
+    {
+        mot: "badlucké",
+        type: "adjectif",
+        definition: "Malchanceux.",
+        signification: "Qui n'a pas de chance.",
+        contexte: "Chance.",
+        exemple: "« Chus badlucké aujourd'hui. »"
+    },
+    {
+        mot: "bête",
+        type: "adjectif",
+        definition: "Désagréable, de mauvaise humeur.",
+        signification: "Pas gentil.",
+        contexte: "Humeur.",
+        exemple: "« Y'est ben bête à matin. »"
+    },
+    {
+        mot: "borné",
+        type: "adjectif",
+        definition: "Têtu, obstiné.",
+        signification: "Qui refuse de changer d'avis.",
+        contexte: "Caractère.",
+        exemple: "« Y'est borné sans bon sens! »"
+    },
+    {
+        mot: "braillard",
+        type: "adjectif",
+        definition: "Qui pleure souvent, pleurnicheur.",
+        signification: "Pleurnichard.",
+        contexte: "Comportement.",
+        exemple: "« Arrête d'être braillard! »"
+    },
+    {
+        mot: "bucheron",
+        type: "adjectif",
+        definition: "Rustique, sans manières.",
+        signification: "Grossier.",
+        contexte: "Comportement.",
+        exemple: "« Y mange comme un bucheron. »"
+    },
+    {
+        mot: "capotant",
+        type: "adjectif",
+        definition: "Fou, incroyable, excitant.",
+        signification: "Qui fait capoter.",
+        contexte: "Émotion.",
+        exemple: "« C'est capotant ce film-là! »"
+    },
+    {
+        mot: "chialeux",
+        type: "adjectif",
+        definition: "Qui se plaint tout le temps.",
+        signification: "Râleur.",
+        contexte: "Comportement.",
+        exemple: "« Y'est trop chialeux. »"
+    },
+    {
+        mot: "choqué",
+        type: "adjectif",
+        definition: "Fâché, en colère.",
+        signification: "Énervé.",
+        contexte: "Émotion.",
+        exemple: "« Est choquée après toé. »"
+    },
+    {
+        mot: "colon",
+        type: "adjectif",
+        definition: "Arriéré, pas dégourdi, campagnard.",
+        signification: "Péquenaud.",
+        contexte: "Insulte légère.",
+        exemple: "« Fais pas ton colon! »"
+    },
+    {
+        mot: "correct",
+        type: "adjectif",
+        definition: "Bien, acceptable, d'accord.",
+        signification: "OK, pas de problème.",
+        contexte: "Approbation.",
+        exemple: "« C'est correct, t'inquiète pas. »"
+    },
+    {
+        mot: "crasse",
+        type: "adjectif",
+        definition: "Sale, dégueulasse.",
+        signification: "Très sale.",
+        contexte: "Propreté.",
+        exemple: "« Ta chambre est crasse! »"
+    },
+    {
+        mot: "croche",
+        type: "adjectif",
+        definition: "Tordu, pas droit, malhonnête.",
+        signification: "De travers.",
+        contexte: "Description.",
+        exemple: "« Le tableau est croche. » ou « Y'est croche ce gars-là. »"
+    },
+    {
+        mot: "débile",
+        type: "adjectif",
+        definition: "Fou, incroyable, stupide.",
+        signification: "Excessif.",
+        contexte: "Exclamation.",
+        exemple: "« C'est débile cette histoire-là! »"
+    },
+    {
+        mot: "écœurant",
+        type: "adjectif",
+        definition: "Dégoûtant OU incroyable/génial.",
+        signification: "Selon contexte: mauvais ou excellent.",
+        contexte: "Émotion.",
+        exemple: "« C'est écœurant bon! » ou « C'est écœurant ce qu'y fait. »"
+    },
+    {
+        mot: "effouéré",
+        type: "adjectif",
+        definition: "Ébouriffé, décoiffé, excité.",
+        signification: "Cheveux en désordre ou énervé.",
+        contexte: "Apparence/État.",
+        exemple: "« T'es ben effouéré à matin! »"
+    },
+    {
+        mot: "épaisse",
+        type: "adjectif",
+        definition: "Stupide, pas intelligent.",
+        signification: "Niais.",
+        contexte: "Insulte.",
+        exemple: "« Est épaisse celle-là! »"
+    },
+    {
+        mot: "épeurant",
+        type: "adjectif",
+        definition: "Effrayant, qui fait peur.",
+        signification: "Terrifiant.",
+        contexte: "Peur.",
+        exemple: "« Ce film-là est épeurant! »"
+    },
+    {
+        mot: "fatigant",
+        type: "adjectif",
+        definition: "Agaçant, énervant.",
+        signification: "Qui fatigue.",
+        contexte: "Dérangement.",
+        exemple: "« Y'est fatigant ce kid-là. »"
+    },
+    {
+        mot: "fin",
+        type: "adjectif",
+        definition: "Gentil, aimable.",
+        signification: "Agréable.",
+        contexte: "Personnalité.",
+        exemple: "« Y'est ben fin lui. »"
+    },
+    {
+        mot: "flyé",
+        type: "adjectif",
+        definition: "Bizarre, excentrique, fou.",
+        signification: "Original.",
+        contexte: "Description.",
+        exemple: "« Y'est flyé ce gars-là! »"
+    },
+    {
+        mot: "fru",
+        type: "adjectif",
+        definition: "Frustré, fâché.",
+        signification: "En colère.",
+        contexte: "Émotion.",
+        exemple: "« Pourquoi t'es fru? »"
+    },
+    {
+        mot: "gossant",
+        type: "adjectif",
+        definition: "Agaçant, énervant.",
+        signification: "Qui gosse.",
+        contexte: "Dérangement.",
+        exemple: "« C'est gossant ton bruit! »"
+    },
+    {
+        mot: "gratteux",
+        type: "adjectif",
+        definition: "Avare, pingre.",
+        signification: "Qui gratte ses sous.",
+        contexte: "Argent.",
+        exemple: "« Y'est gratteux sans bon sens! »"
+    },
+    {
+        mot: "gros-jean-comme-devant",
+        type: "adjectif",
+        definition: "Pas plus avancé qu'avant.",
+        signification: "Revenu au point de départ.",
+        contexte: "Échec.",
+        exemple: "« Après tout ça, j'suis gros-jean-comme-devant. »"
+    },
+    {
+        mot: "habitant",
+        type: "adjectif",
+        definition: "Campagnard, arriéré.",
+        signification: "Pas sophistiqué.",
+        contexte: "Description.",
+        exemple: "« Fais pas ton habitant! »"
+    },
+    {
+        mot: "heavy",
+        type: "adjectif",
+        definition: "Intense, difficile, impressionnant.",
+        signification: "Lourd émotionnellement.",
+        contexte: "Intensité.",
+        exemple: "« C'est heavy ce qui lui arrive. »"
+    },
+    {
+        mot: "laitte",
+        type: "adjectif",
+        definition: "Laid, moche.",
+        signification: "Pas beau.",
+        contexte: "Apparence.",
+        exemple: "« Y'est laitte ce meuble-là. »"
+    },
+    {
+        mot: "magané",
+        type: "adjectif",
+        definition: "Abîmé, usé, fatigué.",
+        signification: "En mauvais état.",
+        contexte: "État.",
+        exemple: "« Mon char est pas mal magané. »"
+    },
+    {
+        mot: "malcommode",
+        type: "adjectif",
+        definition: "Difficile à vivre, désagréable.",
+        signification: "De mauvais caractère.",
+        contexte: "Personnalité.",
+        exemple: "« Y'est malcommode ce vieux-là. »"
+    },
+    {
+        mot: "malaisant",
+        type: "adjectif",
+        definition: "Gênant, embarrassant.",
+        signification: "Qui met mal à l'aise.",
+        contexte: "Malaise.",
+        exemple: "« C'était malaisant en maudit. »"
+    },
+    {
+        mot: "niaiseux",
+        type: "adjectif",
+        definition: "Stupide, idiot.",
+        signification: "Pas intelligent.",
+        contexte: "Insulte.",
+        exemple: "« T'es ben niaiseux! »"
+    },
+    {
+        mot: "nounoune",
+        type: "adjectif",
+        definition: "Naïve, niaise (féminin).",
+        signification: "Stupide au féminin.",
+        contexte: "Insulte.",
+        exemple: "« Fais pas ta nounoune! »"
+    },
+    {
+        mot: "ordinaire",
+        type: "adjectif",
+        definition: "Médiocre, pas terrible.",
+        signification: "Moyen, passable.",
+        contexte: "Évaluation.",
+        exemple: "« Le film était ordinaire. »"
+    },
+    {
+        mot: "pété",
+        type: "adjectif",
+        definition: "Cassé, brisé, ou fou.",
+        signification: "En mauvais état ou dérangé.",
+        contexte: "État.",
+        exemple: "« Mon cell est pété. » ou « Y'est pété dans tête. »"
+    },
+    {
+        mot: "platte",
+        type: "adjectif",
+        definition: "Ennuyeux, pas intéressant.",
+        signification: "Pas le fun.",
+        contexte: "Émotion.",
+        exemple: "« C'est platte la pluie. »"
+    },
+    {
+        mot: "poche",
+        type: "adjectif",
+        definition: "Nul, mauvais.",
+        signification: "Pas bon.",
+        contexte: "Évaluation.",
+        exemple: "« Ce film-là est poche. »"
+    },
+    {
+        mot: "poqué",
+        type: "adjectif",
+        definition: "Cabossé, amoché.",
+        signification: "Endommagé.",
+        contexte: "État.",
+        exemple: "« Mon bumper est tout poqué. »"
+    },
+    {
+        mot: "pouilleux",
+        type: "adjectif",
+        definition: "Misérable, sale.",
+        signification: "En mauvais état.",
+        contexte: "Description.",
+        exemple: "« Un bar pouilleux. »"
+    },
+    {
+        mot: "quétaine",
+        type: "adjectif",
+        definition: "Ringard, démodé, de mauvais goût.",
+        signification: "Kitsch.",
+        contexte: "Style.",
+        exemple: "« C'est quétaine en maudit! »"
+    },
+    {
+        mot: "ratoureux",
+        type: "adjectif",
+        definition: "Rusé, malin.",
+        signification: "Qui fait des tours.",
+        contexte: "Personnalité.",
+        exemple: "« Y'est ratoureux ce p'tit gars-là. »"
+    },
+    {
+        mot: "relax",
+        type: "adjectif",
+        definition: "Détendu, calme.",
+        signification: "Pas stressé.",
+        contexte: "État.",
+        exemple: "« C'était une soirée ben relax. »"
+    },
+    {
+        mot: "rough",
+        type: "adjectif",
+        definition: "Difficile, rude.",
+        signification: "Pénible.",
+        contexte: "Difficulté.",
+        exemple: "« C'est rough ce qu'y vit. »"
+    },
+    {
+        mot: "rushant",
+        type: "adjectif",
+        definition: "Stressant, pressé.",
+        signification: "Qui met la pression.",
+        contexte: "Stress.",
+        exemple: "« C'est rushant au travail. »"
+    },
+    {
+        mot: "smatte",
+        type: "adjectif",
+        definition: "Gentil, sympathique.",
+        signification: "De l'anglais 'smart' mais sens différent.",
+        contexte: "Personnalité.",
+        exemple: "« Y'est smatte ce prof-là. »"
+    },
+    {
+        mot: "straight",
+        type: "adjectif",
+        definition: "Honnête, direct, sobre.",
+        signification: "Pas compliqué.",
+        contexte: "Personnalité.",
+        exemple: "« Y'est straight, lui. »"
+    },
+    {
+        mot: "tanné",
+        type: "adjectif",
+        definition: "Fatigué, excédé, en avoir marre.",
+        signification: "Épuisé moralement.",
+        contexte: "Lassitude.",
+        exemple: "« Chus tanné de cette job! »"
+    },
+    {
+        mot: "tata",
+        type: "adjectif",
+        definition: "Idiot, stupide.",
+        signification: "Niais.",
+        contexte: "Insulte légère.",
+        exemple: "« Fais pas ton tata! »"
+    },
+    {
+        mot: "tiguidou",
+        type: "adjectif",
+        definition: "Parfait, correct, OK.",
+        signification: "Tout va bien.",
+        contexte: "Approbation.",
+        exemple: "« C'est tiguidou? »"
+    },
+    {
+        mot: "toune",
+        type: "adjectif",
+        definition: "Niais, simple d'esprit.",
+        signification: "Pas brillant.",
+        contexte: "Insulte.",
+        exemple: "« Y'est toune lui! »"
+    },
+    {
+        mot: "tough",
+        type: "adjectif",
+        definition: "Difficile, résistant.",
+        signification: "Dur.",
+        contexte: "Difficulté.",
+        exemple: "« C'est tough son affaire. »"
+    },
+    {
+        mot: "twit",
+        type: "adjectif",
+        definition: "Idiot, imbécile.",
+        signification: "Stupide.",
+        contexte: "Insulte.",
+        exemple: "« T'es un twit! »"
+    },
+    {
+        mot: "wack",
+        type: "adjectif",
+        definition: "Bizarre, étrange, fou.",
+        signification: "Pas normal.",
+        contexte: "Description.",
+        exemple: "« C'est wack son histoire! »"
+    },
+    
+    // --- SYNONYMES ET MOTS SIMPLES ---
+    {
+        mot: "à cette heure",
+        type: "locution",
+        definition: "Maintenant, à présent.",
+        signification: "En ce moment.",
+        contexte: "Temps.",
+        exemple: "« À cette heure, on fait quoi? »"
+    },
+    {
+        mot: "à matin",
+        type: "locution",
+        definition: "Ce matin.",
+        signification: "Durant la matinée.",
+        contexte: "Temps.",
+        exemple: "« J'me suis levé de bonne heure à matin. »"
+    },
+    {
+        mot: "à soir",
+        type: "locution",
+        definition: "Ce soir.",
+        signification: "Durant la soirée.",
+        contexte: "Temps.",
+        exemple: "« On sort à soir. »"
+    },
+    {
+        mot: "astheure",
+        type: "adverbe",
+        definition: "Maintenant, à présent.",
+        signification: "Contraction de 'à cette heure'.",
+        contexte: "Temps.",
+        exemple: "« Astheure, qu'est-ce qu'on fait? »"
+    },
+    {
+        mot: "ben",
+        type: "adverbe",
+        definition: "Bien, très.",
+        signification: "Prononciation québécoise.",
+        contexte: "Intensité.",
+        exemple: "« C'est ben bon! »"
+    },
+    {
+        mot: "bin",
+        type: "adverbe",
+        definition: "Bien, très (variante).",
+        signification: "Autre orthographe de 'ben'.",
+        contexte: "Intensité.",
+        exemple: "« C'est bin correct. »"
+    },
+    {
+        mot: "chus",
+        type: "contraction",
+        definition: "Je suis.",
+        signification: "Forme contractée.",
+        contexte: "Grammaire.",
+        exemple: "« Chus fatigué. »"
+    },
+    {
+        mot: "d'abord",
+        type: "locution",
+        definition: "Alors, dans ce cas.",
+        signification: "Si c'est comme ça.",
+        contexte: "Conclusion.",
+        exemple: "« D'abord, j'm'en vais! »"
+    },
+    {
+        mot: "en masse",
+        type: "locution",
+        definition: "Beaucoup, suffisamment.",
+        signification: "En grande quantité.",
+        contexte: "Quantité.",
+        exemple: "« Y'en a en masse. »"
+    },
+    {
+        mot: "icitte",
+        type: "adverbe",
+        definition: "Ici.",
+        signification: "Prononciation traditionnelle.",
+        contexte: "Lieu.",
+        exemple: "« Viens icitte! »"
+    },
+    {
+        mot: "j'cré ben",
+        type: "locution",
+        definition: "Je crois bien, je pense que oui.",
+        signification: "Probablement.",
+        contexte: "Opinion.",
+        exemple: "« J'cré ben qu'y va pleuvoir. »"
+    },
+    {
+        mot: "moé",
+        type: "pronom",
+        definition: "Moi.",
+        signification: "Prononciation québécoise.",
+        contexte: "Grammaire.",
+        exemple: "« C'est moé qui l'a fait. »"
+    },
+    {
+        mot: "p'tête",
+        type: "adverbe",
+        definition: "Peut-être.",
+        signification: "Possibilité.",
+        contexte: "Incertitude.",
+        exemple: "« P'tête que oui, p'tête que non. »"
+    },
+    {
+        mot: "pantoute",
+        type: "adverbe",
+        definition: "Pas du tout.",
+        signification: "Négation forte.",
+        contexte: "Négation.",
+        exemple: "« J'aime pas ça pantoute! »"
+    },
+    {
+        mot: "pis",
+        type: "conjonction",
+        definition: "Et, puis.",
+        signification: "Mot de liaison.",
+        contexte: "Grammaire.",
+        exemple: "« J'ai mangé pis j'suis parti. »"
+    },
+    {
+        mot: "quand même",
+        type: "locution",
+        definition: "Tout de même, malgré tout.",
+        signification: "Néanmoins.",
+        contexte: "Nuance.",
+        exemple: "« C'est quand même bon. »"
+    },
+    {
+        mot: "s'a",
+        type: "contraction",
+        definition: "Sur la.",
+        signification: "Forme contractée.",
+        contexte: "Grammaire.",
+        exemple: "« S'a table. »"
+    },
+    {
+        mot: "t'sé",
+        type: "interjection",
+        definition: "Tu sais.",
+        signification: "Tic de langage.",
+        contexte: "Conversation.",
+        exemple: "« T'sé, c'est compliqué. »"
+    },
+    {
+        mot: "toé",
+        type: "pronom",
+        definition: "Toi.",
+        signification: "Prononciation québécoise.",
+        contexte: "Grammaire.",
+        exemple: "« C'est toé qui décides. »"
+    },
+    {
+        mot: "tu (particule)",
+        type: "particule",
+        definition: "Particule interrogative.",
+        signification: "Transforme une phrase en question.",
+        contexte: "Grammaire.",
+        exemple: "« Tu viens-tu? » « C'est-tu vrai? »"
+    },
+    {
+        mot: "y",
+        type: "pronom",
+        definition: "Il, lui.",
+        signification: "Pronom masculin.",
+        contexte: "Grammaire.",
+        exemple: "« Y'est parti. » « J'y ai dit. »"
+    },
+    {
+        mot: "a",
+        type: "pronom",
+        definition: "Elle.",
+        signification: "Pronom féminin.",
+        contexte: "Grammaire.",
+        exemple: "« A l'est belle. »"
     }
 ];
 
