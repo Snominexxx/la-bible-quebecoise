@@ -7091,6 +7091,756 @@ const dictionnaire = [
         signification: "Outil de nettoyage.",
         contexte: "Ménage.",
         exemple: "« Passe la vadrouille dans la cuisine. »"
+    },
+
+    // === 100 NOUVEAUX MOTS - TOUTES CATÉGORIES ===
+    
+    // --- NATURE ET ANIMAUX ---
+    {
+        mot: "achigan",
+        type: "nom masculin",
+        definition: "Poisson d'eau douce, type de perche.",
+        signification: "Black bass.",
+        contexte: "Pêche.",
+        exemple: "« J'ai pogné un bel achigan au lac! »"
+    },
+    {
+        mot: "barbotte",
+        type: "nom féminin",
+        definition: "Poisson-chat.",
+        signification: "Poisson d'eau douce.",
+        contexte: "Pêche.",
+        exemple: "« On a mangé de la barbotte frite. »"
+    },
+    {
+        mot: "bête puante",
+        type: "nom féminin",
+        definition: "Mouffette.",
+        signification: "Animal qui dégage une odeur forte.",
+        contexte: "Faune.",
+        exemple: "« Y'a une bête puante en dessous du perron! »"
+    },
+    {
+        mot: "brûlot",
+        type: "nom masculin",
+        definition: "Petit moustique qui pique fort.",
+        signification: "Insecte piqueur.",
+        contexte: "Nature.",
+        exemple: "« Les brûlots sont pires que les maringouins! »"
+    },
+    {
+        mot: "chevreuil",
+        type: "nom masculin",
+        definition: "Cerf de Virginie (pas le chevreuil européen).",
+        signification: "Cervidé nord-américain.",
+        contexte: "Chasse.",
+        exemple: "« Mon père a pogné un chevreuil à la chasse. »"
+    },
+    {
+        mot: "crapaud",
+        type: "nom masculin",
+        definition: "Grenouille ou crapaud.",
+        signification: "Batracien.",
+        contexte: "Nature.",
+        exemple: "« Y'a des crapauds dans le marais. »"
+    },
+    {
+        mot: "écureux",
+        type: "nom masculin",
+        definition: "Écureuil.",
+        signification: "Prononciation québécoise.",
+        contexte: "Faune.",
+        exemple: "« Les écureux vident la mangeoire à oiseaux! »"
+    },
+    {
+        mot: "mouche à chevreuil",
+        type: "nom féminin",
+        definition: "Taon.",
+        signification: "Grosse mouche qui pique.",
+        contexte: "Insectes.",
+        exemple: "« Les mouches à chevreuil piquent en maudit! »"
+    },
+    {
+        mot: "ouananiche",
+        type: "nom féminin",
+        definition: "Saumon d'eau douce.",
+        signification: "Poisson du Lac Saint-Jean.",
+        contexte: "Pêche.",
+        exemple: "« La ouananiche du Lac-Saint-Jean est délicieuse. »"
+    },
+    {
+        mot: "perchaude",
+        type: "nom féminin",
+        definition: "Perche, poisson d'eau douce.",
+        signification: "Petit poisson commun.",
+        contexte: "Pêche.",
+        exemple: "« On pêche la perchaude sur la glace. »"
+    },
+    {
+        mot: "picbois",
+        type: "nom masculin",
+        definition: "Pic-bois, pic (oiseau).",
+        signification: "Oiseau qui pique le bois.",
+        contexte: "Ornithologie.",
+        exemple: "« Y'a un picbois qui cogne après l'arbre. »"
+    },
+    {
+        mot: "siffleux",
+        type: "nom masculin",
+        definition: "Marmotte.",
+        signification: "Rongeur qui siffle.",
+        contexte: "Faune.",
+        exemple: "« Y'a un siffleux dans le jardin. »"
+    },
+    {
+        mot: "suisse",
+        type: "nom masculin",
+        definition: "Tamia rayé, petit écureuil rayé.",
+        signification: "Chipmunk.",
+        contexte: "Faune.",
+        exemple: "« Les suisses sont cute mais y mangent mes tomates! »"
+    },
+    
+    // --- MÉTÉO ET SAISONS ---
+    {
+        mot: "banc de neige",
+        type: "nom masculin",
+        definition: "Congère, accumulation de neige.",
+        signification: "Neige accumulée par le vent.",
+        contexte: "Hiver.",
+        exemple: "« Le banc de neige bloque l'entrée! »"
+    },
+    {
+        mot: "bourrasque",
+        type: "nom féminin",
+        definition: "Coup de vent soudain avec neige.",
+        signification: "Rafale.",
+        contexte: "Météo.",
+        exemple: "« Une bourrasque nous a surpris. »"
+    },
+    {
+        mot: "gadoue",
+        type: "nom féminin",
+        definition: "Boue, neige fondante sale.",
+        signification: "Mélange de neige et de saleté.",
+        contexte: "Printemps.",
+        exemple: "« Y'a de la gadoue partout en ville. »"
+    },
+    {
+        mot: "glacer",
+        type: "verbe",
+        definition: "Geler, devenir glacé.",
+        signification: "Former de la glace.",
+        contexte: "Hiver.",
+        exemple: "« Le trottoir a glacé pendant la nuit. »"
+    },
+    {
+        mot: "grésil",
+        type: "nom masculin",
+        definition: "Grêle fine, petits grains de glace.",
+        signification: "Précipitation glacée.",
+        contexte: "Météo.",
+        exemple: "« Y tombe du grésil, attention c'est glissant! »"
+    },
+    {
+        mot: "neiger à plein ciel",
+        type: "expression",
+        definition: "Neiger abondamment.",
+        signification: "Forte chute de neige.",
+        contexte: "Hiver.",
+        exemple: "« Y neige à plein ciel dehors! »"
+    },
+    {
+        mot: "noirceur",
+        type: "nom féminin",
+        definition: "Obscurité, nuit.",
+        signification: "Quand il fait noir.",
+        contexte: "Temps.",
+        exemple: "« Rentre avant la noirceur. »"
+    },
+    {
+        mot: "temps doux",
+        type: "nom masculin",
+        definition: "Redoux, température clémente en hiver.",
+        signification: "Réchauffement temporaire.",
+        contexte: "Météo.",
+        exemple: "« Profite du temps doux, ça durera pas! »"
+    },
+    {
+        mot: "verglas",
+        type: "nom masculin",
+        definition: "Glace qui recouvre les surfaces.",
+        signification: "Couche de glace dangereuse.",
+        contexte: "Hiver.",
+        exemple: "« Fais attention au verglas sur les marches. »"
+    },
+    
+    // --- NOURRITURE ET BOISSON ---
+    {
+        mot: "bagosse",
+        type: "nom féminin",
+        definition: "Alcool artisanal, moonshine.",
+        signification: "Boisson alcoolisée maison.",
+        contexte: "Alcool.",
+        exemple: "« Mon grand-père faisait de la bagosse. »"
+    },
+    {
+        mot: "baloné",
+        type: "nom masculin",
+        definition: "Mortadelle, bologna.",
+        signification: "Charcuterie.",
+        contexte: "Alimentation.",
+        exemple: "« Un sandwich au baloné. »"
+    },
+    {
+        mot: "blé d'Inde",
+        type: "nom masculin",
+        definition: "Maïs, épi de maïs.",
+        signification: "Céréale.",
+        contexte: "Alimentation.",
+        exemple: "« On fait un épluchette de blé d'Inde! »"
+    },
+    {
+        mot: "bloody caesar",
+        type: "nom masculin",
+        definition: "Cocktail avec jus de palourde et vodka.",
+        signification: "Boisson typiquement canadienne.",
+        contexte: "Alcool.",
+        exemple: "« Un bloody caesar avec extra piment! »"
+    },
+    {
+        mot: "canneberge",
+        type: "nom féminin",
+        definition: "Cranberry, atoca.",
+        signification: "Petite baie rouge acidulée.",
+        contexte: "Fruits.",
+        exemple: "« De la sauce aux canneberges avec la dinde. »"
+    },
+    {
+        mot: "caribou",
+        type: "nom masculin",
+        definition: "Boisson alcoolisée (vin rouge et alcool fort).",
+        signification: "Boisson du temps des fêtes.",
+        contexte: "Alcool.",
+        exemple: "« On boit du caribou au carnaval. »"
+    },
+    {
+        mot: "chiard",
+        type: "nom masculin",
+        definition: "Ragoût de pommes de terre et viande.",
+        signification: "Plat traditionnel.",
+        contexte: "Cuisine.",
+        exemple: "« Ma mère fait un bon chiard. »"
+    },
+    {
+        mot: "coke",
+        type: "nom féminin",
+        definition: "Coca-Cola ou toute boisson gazeuse brune.",
+        signification: "Marque devenue générique.",
+        contexte: "Boisson.",
+        exemple: "« Veux-tu une coke? »"
+    },
+    {
+        mot: "cornet",
+        type: "nom masculin",
+        definition: "Cône de crème glacée.",
+        signification: "Contenant en gaufrette.",
+        contexte: "Dessert.",
+        exemple: "« Un cornet deux boules au chocolat! »"
+    },
+    {
+        mot: "crémage",
+        type: "nom masculin",
+        definition: "Glaçage sur un gâteau.",
+        signification: "Couche sucrée.",
+        contexte: "Pâtisserie.",
+        exemple: "« Le crémage du gâteau est trop sucré. »"
+    },
+    {
+        mot: "fondue parmesan",
+        type: "nom féminin",
+        definition: "Fondue au fromage parmesan.",
+        signification: "Plat chaud.",
+        contexte: "Cuisine.",
+        exemple: "« On fait une fondue parmesan à soir. »"
+    },
+    {
+        mot: "gibelotte",
+        type: "nom féminin",
+        definition: "Ragoût de poisson des îles de Sorel.",
+        signification: "Plat régional.",
+        contexte: "Cuisine.",
+        exemple: "« La gibelotte de Sorel est fameuse. »"
+    },
+    {
+        mot: "gomme",
+        type: "nom féminin",
+        definition: "Gomme à mâcher, chewing-gum.",
+        signification: "De l'anglais 'gum'.",
+        contexte: "Confiserie.",
+        exemple: "« T'as-tu de la gomme? »"
+    },
+    {
+        mot: "grilled cheese",
+        type: "nom masculin",
+        definition: "Sandwich au fromage grillé.",
+        signification: "Sandwich chaud.",
+        contexte: "Cuisine.",
+        exemple: "« J'me fais un grilled cheese pour dîner. »"
+    },
+    {
+        mot: "jello",
+        type: "nom masculin",
+        definition: "Gélatine, gelée dessert.",
+        signification: "Marque devenue générique.",
+        contexte: "Dessert.",
+        exemple: "« Y'a du jello aux fraises pour dessert. »"
+    },
+    {
+        mot: "pain doré",
+        type: "nom masculin",
+        definition: "Pain perdu, French toast.",
+        signification: "Pain trempé dans l'œuf et frit.",
+        contexte: "Déjeuner.",
+        exemple: "« Du pain doré avec du sirop d'érable. »"
+    },
+    {
+        mot: "patate frite",
+        type: "nom féminin",
+        definition: "Frite, French fries.",
+        signification: "Pomme de terre frite.",
+        contexte: "Restauration.",
+        exemple: "« Une poutine avec des patates frites croustillantes! »"
+    },
+    {
+        mot: "pâté chinois",
+        type: "nom masculin",
+        definition: "Plat de viande hachée, maïs et purée.",
+        signification: "Équivalent du shepherd's pie.",
+        contexte: "Cuisine.",
+        exemple: "« Ma mère fait le meilleur pâté chinois! »"
+    },
+    {
+        mot: "rôties",
+        type: "nom féminin pluriel",
+        definition: "Toasts, pain grillé.",
+        signification: "Tranches de pain grillées.",
+        contexte: "Déjeuner.",
+        exemple: "« Des rôties avec du beurre de pinottes. »"
+    },
+    {
+        mot: "sous-marin",
+        type: "nom masculin",
+        definition: "Sandwich long, sub.",
+        signification: "Type de sandwich.",
+        contexte: "Restauration.",
+        exemple: "« Un sous-marin italien all-dressed. »"
+    },
+    
+    // --- VÊTEMENTS ET ACCESSOIRES ---
+    {
+        mot: "bobettes",
+        type: "nom féminin pluriel",
+        definition: "Sous-vêtements, caleçons.",
+        signification: "Culotte ou slip.",
+        contexte: "Vêtements.",
+        exemple: "« Mets des bobettes propres! »"
+    },
+    {
+        mot: "brassière",
+        type: "nom féminin",
+        definition: "Soutien-gorge.",
+        signification: "Sous-vêtement féminin.",
+        contexte: "Vêtements.",
+        exemple: "« J'ai besoin d'une nouvelle brassière. »"
+    },
+    {
+        mot: "calotte",
+        type: "nom féminin",
+        definition: "Casquette.",
+        signification: "Chapeau à visière.",
+        contexte: "Accessoires.",
+        exemple: "« Mets ta calotte, y fait soleil. »"
+    },
+    {
+        mot: "camisole",
+        type: "nom féminin",
+        definition: "Débardeur, camisole.",
+        signification: "Haut sans manches.",
+        contexte: "Vêtements.",
+        exemple: "« Mets une camisole en dessous. »"
+    },
+    {
+        mot: "capine",
+        type: "nom féminin",
+        definition: "Bonnet, chapeau de femme.",
+        signification: "Couvre-chef.",
+        contexte: "Vêtements.",
+        exemple: "« Mets ta capine, y vente! »"
+    },
+    {
+        mot: "claques",
+        type: "nom féminin pluriel",
+        definition: "Couvre-chaussures en caoutchouc.",
+        signification: "Protection contre la neige.",
+        contexte: "Chaussures.",
+        exemple: "« Mets tes claques, y mouille dehors. »"
+    },
+    {
+        mot: "coat",
+        type: "nom masculin",
+        definition: "Manteau.",
+        signification: "De l'anglais 'coat'.",
+        contexte: "Vêtements.",
+        exemple: "« Mets ton coat, y fait frette! »"
+    },
+    {
+        mot: "combine",
+        type: "nom féminin",
+        definition: "Sous-vêtement long, combinaison.",
+        signification: "Vêtement d'hiver.",
+        contexte: "Vêtements.",
+        exemple: "« Y porte encore des combines l'hiver. »"
+    },
+    {
+        mot: "coupe-vent",
+        type: "nom masculin",
+        definition: "Blouson léger.",
+        signification: "Veste contre le vent.",
+        contexte: "Vêtements.",
+        exemple: "« Apporte ton coupe-vent, y vente au bord de l'eau. »"
+    },
+    {
+        mot: "espadrilles",
+        type: "nom féminin pluriel",
+        definition: "Chaussures de sport, running shoes.",
+        signification: "Sneakers.",
+        contexte: "Chaussures.",
+        exemple: "« Mets tes espadrilles pour courir. »"
+    },
+    {
+        mot: "foulard",
+        type: "nom masculin",
+        definition: "Écharpe.",
+        signification: "Accessoire pour le cou.",
+        contexte: "Accessoires.",
+        exemple: "« Mets ton foulard, y fait frette. »"
+    },
+    {
+        mot: "jaquette",
+        type: "nom féminin",
+        definition: "Chemise de nuit.",
+        signification: "Vêtement pour dormir.",
+        contexte: "Vêtements.",
+        exemple: "« Mets ta jaquette, c'est l'heure du dodo. »"
+    },
+    {
+        mot: "kangourou",
+        type: "nom masculin",
+        definition: "Chandail à capuchon, hoodie.",
+        signification: "Sweat à capuche.",
+        contexte: "Vêtements.",
+        exemple: "« J'ai acheté un nouveau kangourou. »"
+    },
+    {
+        mot: "running",
+        type: "nom masculin",
+        definition: "Chaussure de course.",
+        signification: "De l'anglais.",
+        contexte: "Chaussures.",
+        exemple: "« Mes runnings sont finis, faut j'en achète des neufs. »"
+    },
+    
+    // --- EXPRESSIONS POPULAIRES ---
+    {
+        mot: "accouche qu'on baptise",
+        type: "expression",
+        definition: "Dépêche-toi de parler, dis ce que tu as à dire.",
+        signification: "Impatience d'entendre quelque chose.",
+        contexte: "Conversation.",
+        exemple: "« Envoye, accouche qu'on baptise! »"
+    },
+    {
+        mot: "avoir du bacon",
+        type: "expression",
+        definition: "Avoir de l'argent.",
+        signification: "Être riche.",
+        contexte: "Finances.",
+        exemple: "« Y'a du bacon, lui! »"
+    },
+    {
+        mot: "avoir la face longue",
+        type: "expression",
+        definition: "Avoir l'air triste, déprimé.",
+        signification: "Expression de tristesse.",
+        contexte: "Émotion.",
+        exemple: "« T'as la face longue, qu'est-ce qui se passe? »"
+    },
+    {
+        mot: "avoir le bec sucré",
+        type: "expression",
+        definition: "Aimer les sucreries.",
+        signification: "Avoir la dent sucrée.",
+        contexte: "Alimentation.",
+        exemple: "« J'ai le bec sucré, j'adore le dessert! »"
+    },
+    {
+        mot: "avoir le motton",
+        type: "expression",
+        definition: "Avoir une boule dans la gorge, être ému.",
+        signification: "Être sur le point de pleurer.",
+        contexte: "Émotion.",
+        exemple: "« J'ai eu le motton quand y'a eu son diplôme. »"
+    },
+    {
+        mot: "avoir les shakes",
+        type: "expression",
+        definition: "Trembler, avoir peur ou être en manque.",
+        signification: "État de tremblements.",
+        contexte: "Nervosité.",
+        exemple: "« J'ai les shakes tellement j'suis nerveux. »"
+    },
+    {
+        mot: "c'est tiguidou",
+        type: "expression",
+        definition: "C'est parfait, c'est correct.",
+        signification: "Expression d'approbation.",
+        contexte: "Accord.",
+        exemple: "« On se voit à 8h? - C'est tiguidou! »"
+    },
+    {
+        mot: "c'est pas fort fort",
+        type: "expression",
+        definition: "Ce n'est pas très bon/bien.",
+        signification: "Critique légère.",
+        contexte: "Évaluation.",
+        exemple: "« Ton dessin c'est pas fort fort! »"
+    },
+    {
+        mot: "donner du trouble",
+        type: "expression",
+        definition: "Causer des problèmes.",
+        signification: "Créer des difficultés.",
+        contexte: "Problèmes.",
+        exemple: "« Mon char me donne du trouble. »"
+    },
+    {
+        mot: "être aux petits oiseaux",
+        type: "expression",
+        definition: "Être très content.",
+        signification: "État de grand bonheur.",
+        contexte: "Bonheur.",
+        exemple: "« A l'est aux petits oiseaux depuis qu'a l'a eu sa promotion. »"
+    },
+    {
+        mot: "être comme un coq en pâte",
+        type: "expression",
+        definition: "Être choyé, vivre dans le confort.",
+        signification: "Être très bien traité.",
+        contexte: "Confort.",
+        exemple: "« Chez sa mère, y'est comme un coq en pâte. »"
+    },
+    {
+        mot: "faire changement",
+        type: "expression",
+        definition: "Pour changer, ça change de l'ordinaire.",
+        signification: "Changement bienvenu.",
+        contexte: "Nouveauté.",
+        exemple: "« On sort au resto, pour faire changement! »"
+    },
+    {
+        mot: "jeter un œil",
+        type: "expression",
+        definition: "Regarder rapidement, vérifier.",
+        signification: "Coup d'œil.",
+        contexte: "Observation.",
+        exemple: "« J'vais jeter un œil sur tes devoirs. »"
+    },
+    {
+        mot: "mêle-toi de tes affaires",
+        type: "expression",
+        definition: "Occupe-toi de ce qui te regarde.",
+        signification: "Ne te mêle pas de ça.",
+        contexte: "Reproche.",
+        exemple: "« Mêle-toi de tes affaires, ça te regarde pas! »"
+    },
+    {
+        mot: "mettre la pédale douce",
+        type: "expression",
+        definition: "Ralentir, y aller doucement.",
+        signification: "Modérer ses actions.",
+        contexte: "Modération.",
+        exemple: "« Met la pédale douce sur le café! »"
+    },
+    {
+        mot: "partir en lion finir en mouton",
+        type: "expression",
+        definition: "Commencer fort et finir faiblement.",
+        signification: "Perdre son énergie.",
+        contexte: "Performance.",
+        exemple: "« Y'a parti en lion pis y'a fini en mouton. »"
+    },
+    {
+        mot: "péter plus haut que le trou",
+        type: "expression",
+        definition: "Être prétentieux, se croire supérieur.",
+        signification: "Vouloir plus que ses moyens.",
+        contexte: "Arrogance.",
+        exemple: "« Y pète plus haut que le trou, lui! »"
+    },
+    {
+        mot: "prendre ça cool",
+        type: "expression",
+        definition: "Se détendre, ne pas s'énerver.",
+        signification: "Rester calme.",
+        contexte: "Attitude.",
+        exemple: "« Prends ça cool, c'est pas grave. »"
+    },
+    {
+        mot: "prendre le bord",
+        type: "expression",
+        definition: "S'en aller, partir.",
+        signification: "Quitter un endroit.",
+        contexte: "Départ.",
+        exemple: "« Bon, j'prends le bord, bonne soirée! »"
+    },
+    {
+        mot: "s'en sacrer",
+        type: "expression",
+        definition: "S'en ficher, s'en moquer.",
+        signification: "Ne pas se préoccuper.",
+        contexte: "Indifférence.",
+        exemple: "« Y s'en sacre de ce que le monde pense. »"
+    },
+    {
+        mot: "se casser la tête",
+        type: "expression",
+        definition: "Réfléchir intensément.",
+        signification: "Se tourmenter pour trouver une solution.",
+        contexte: "Réflexion.",
+        exemple: "« Casse-toi pas la tête avec ça! »"
+    },
+    {
+        mot: "se péter les bretelles",
+        type: "expression",
+        definition: "Se vanter, être fier de soi.",
+        signification: "Montrer sa fierté.",
+        contexte: "Fierté.",
+        exemple: "« Y arrête pas de se péter les bretelles. »"
+    },
+    {
+        mot: "se sucrer le bec",
+        type: "expression",
+        definition: "Manger des sucreries.",
+        signification: "Se gâter avec du sucre.",
+        contexte: "Alimentation.",
+        exemple: "« On va se sucrer le bec à la cabane! »"
+    },
+    {
+        mot: "tiens ton bout",
+        type: "expression",
+        definition: "Persévère, ne lâche pas.",
+        signification: "Encouragement.",
+        contexte: "Encouragement.",
+        exemple: "« C'est tough mais tiens ton bout! »"
+    },
+    {
+        mot: "tomber dans l'œil",
+        type: "expression",
+        definition: "Plaire à quelqu'un.",
+        signification: "Attirer l'attention.",
+        contexte: "Séduction.",
+        exemple: "« A m'est tombée dans l'œil tout de suite. »"
+    },
+    {
+        mot: "un coup parti",
+        type: "expression",
+        definition: "Tant qu'à y être.",
+        signification: "Puisqu'on est lancé.",
+        contexte: "Action.",
+        exemple: "« Un coup parti, on fait le ménage au complet! »"
+    },
+    
+    // --- ANGLICISMES COURANTS ---
+    {
+        mot: "canceller",
+        type: "verbe",
+        definition: "Annuler.",
+        signification: "De l'anglais 'to cancel'.",
+        contexte: "Annulation.",
+        exemple: "« J'ai cancellé mon rendez-vous. »"
+    },
+    {
+        mot: "chatter",
+        type: "verbe",
+        definition: "Bavarder en ligne.",
+        signification: "De l'anglais 'to chat'.",
+        contexte: "Internet.",
+        exemple: "« On chatte sur Facebook. »"
+    },
+    {
+        mot: "dealer",
+        type: "verbe",
+        definition: "Gérer, s'occuper de.",
+        signification: "De l'anglais 'to deal'.",
+        contexte: "Gestion.",
+        exemple: "« J'suis pas capable de dealer avec ça. »"
+    },
+    {
+        mot: "faker",
+        type: "verbe",
+        definition: "Simuler, faire semblant.",
+        signification: "De l'anglais 'to fake'.",
+        contexte: "Tromperie.",
+        exemple: "« Y'a faké être malade. »"
+    },
+    {
+        mot: "figurer",
+        type: "verbe",
+        definition: "Comprendre, déduire.",
+        signification: "De l'anglais 'to figure out'.",
+        contexte: "Compréhension.",
+        exemple: "« J'arrive pas à figurer c'est quoi le problème. »"
+    },
+    {
+        mot: "forwarder",
+        type: "verbe",
+        definition: "Transférer un courriel.",
+        signification: "De l'anglais 'to forward'.",
+        contexte: "Courriel.",
+        exemple: "« Forwarde-moi le message. »"
+    },
+    {
+        mot: "joiner",
+        type: "verbe",
+        definition: "Rejoindre, se joindre.",
+        signification: "De l'anglais 'to join'.",
+        contexte: "Participation.",
+        exemple: "« Tu veux-tu joiner notre équipe? »"
+    },
+    {
+        mot: "kicker",
+        type: "verbe",
+        definition: "Botter, donner un coup de pied.",
+        signification: "De l'anglais 'to kick'.",
+        contexte: "Action.",
+        exemple: "« Y s'est fait kicker dehors du bar. »"
+    },
+    {
+        mot: "timer",
+        type: "verbe",
+        definition: "Chronométrer.",
+        signification: "De l'anglais 'to time'.",
+        contexte: "Temps.",
+        exemple: "« Time-moi, j'veux voir si j'suis vite. »"
+    },
+    {
+        mot: "updater",
+        type: "verbe",
+        definition: "Mettre à jour.",
+        signification: "De l'anglais 'to update'.",
+        contexte: "Informatique.",
+        exemple: "« Faut updater ton ordi. »"
     }
 ];
 
