@@ -9457,6 +9457,798 @@ const dictionnaire = [
         signification: "S'asseoir jambes écartées.",
         contexte: "Position.",
         exemple: "« Éjarre-toi pas de même! »"
+    },
+
+    // === 100 NOUVEAUX MOTS - VARIÉS ===
+    
+    // --- OBJETS DU QUOTIDIEN ---
+    {
+        mot: "balayeuse",
+        type: "nom féminin",
+        definition: "Aspirateur.",
+        signification: "Appareil pour nettoyer.",
+        contexte: "Ménage.",
+        exemple: "« Passe la balayeuse dans le salon. »"
+    },
+    {
+        mot: "bardeau",
+        type: "nom masculin",
+        definition: "Tuile de toiture, ou personne folle.",
+        signification: "Shingle ou fou.",
+        contexte: "Construction/Insulte.",
+        exemple: "« Y manque un bardeau! »"
+    },
+    {
+        mot: "bazou",
+        type: "nom masculin",
+        definition: "Vieille voiture en mauvais état.",
+        signification: "Tacot.",
+        contexte: "Automobile.",
+        exemple: "« Y roule encore dans son vieux bazou. »"
+    },
+    {
+        mot: "bécosse",
+        type: "nom féminin",
+        definition: "Toilettes extérieures, latrines.",
+        signification: "De l'anglais 'backhouse'.",
+        contexte: "Sanitaire.",
+        exemple: "« Y'avait juste des bécosses au chalet. »"
+    },
+    {
+        mot: "bécyk",
+        type: "nom masculin",
+        definition: "Bicyclette, vélo.",
+        signification: "Prononciation québécoise.",
+        contexte: "Transport.",
+        exemple: "« J'vais au travail en bécyk. »"
+    },
+    {
+        mot: "bicycle à gaz",
+        type: "nom masculin",
+        definition: "Moto, motocyclette.",
+        signification: "Vélo à moteur.",
+        contexte: "Transport.",
+        exemple: "« Y s'est acheté un bicycle à gaz. »"
+    },
+    {
+        mot: "bol de toilette",
+        type: "nom masculin",
+        definition: "Cuvette des toilettes.",
+        signification: "Partie de la toilette.",
+        contexte: "Sanitaire.",
+        exemple: "« Nettoie le bol de toilette. »"
+    },
+    {
+        mot: "bombe",
+        type: "nom féminin",
+        definition: "Bouilloire.",
+        signification: "Pour faire bouillir l'eau.",
+        contexte: "Cuisine.",
+        exemple: "« Mets la bombe sur le poêle. »"
+    },
+    {
+        mot: "cabaret",
+        type: "nom masculin",
+        definition: "Plateau pour servir.",
+        signification: "Plateau de service.",
+        contexte: "Service.",
+        exemple: "« Mets les verres sur le cabaret. »"
+    },
+    {
+        mot: "cadran",
+        type: "nom masculin",
+        definition: "Réveille-matin, alarme.",
+        signification: "Horloge avec alarme.",
+        contexte: "Temps.",
+        exemple: "« J'ai pas entendu mon cadran. »"
+    },
+    {
+        mot: "canisse",
+        type: "nom féminin",
+        definition: "Bidon, jerrycan.",
+        signification: "Contenant pour liquide.",
+        contexte: "Contenant.",
+        exemple: "« Apporte la canisse de gaz. »"
+    },
+    {
+        mot: "catalogne",
+        type: "nom féminin",
+        definition: "Couverture tissée traditionnelle.",
+        signification: "Couverture artisanale.",
+        contexte: "Literie.",
+        exemple: "« Une belle catalogne de ma grand-mère. »"
+    },
+    {
+        mot: "champlure",
+        type: "nom féminin",
+        definition: "Robinet.",
+        signification: "Valve pour l'eau.",
+        contexte: "Plomberie.",
+        exemple: "« Ferme la champlure! »"
+    },
+    {
+        mot: "chaudière",
+        type: "nom féminin",
+        definition: "Seau, chaudron.",
+        signification: "Récipient.",
+        contexte: "Contenant.",
+        exemple: "« Apporte une chaudière d'eau. »"
+    },
+    {
+        mot: "chesterfield",
+        type: "nom masculin",
+        definition: "Canapé, sofa.",
+        signification: "Meuble de salon.",
+        contexte: "Mobilier.",
+        exemple: "« Assis-toi sur le chesterfield. »"
+    },
+    {
+        mot: "cocotte",
+        type: "nom féminin",
+        definition: "Cône de pin ou marmite.",
+        signification: "Fruit du conifère ou casserole.",
+        contexte: "Nature/Cuisine.",
+        exemple: "« Ramasse des cocottes pour le feu. »"
+    },
+    {
+        mot: "coquerelle",
+        type: "nom féminin",
+        definition: "Cafard, blatte.",
+        signification: "Insecte nuisible.",
+        contexte: "Insecte.",
+        exemple: "« Y'a des coquerelles dans la cuisine! »"
+    },
+    {
+        mot: "couverte",
+        type: "nom féminin",
+        definition: "Couverture.",
+        signification: "Pour se couvrir.",
+        contexte: "Literie.",
+        exemple: "« Mets une couverte, y fait frette. »"
+    },
+    {
+        mot: "débarbouillette",
+        type: "nom féminin",
+        definition: "Petite serviette pour le visage.",
+        signification: "Gant de toilette.",
+        contexte: "Hygiène.",
+        exemple: "« Passe-moi la débarbouillette. »"
+    },
+    {
+        mot: "dépanneur",
+        type: "nom masculin",
+        definition: "Petite épicerie de quartier.",
+        signification: "Convenience store.",
+        contexte: "Commerce.",
+        exemple: "« J'vais au dépanneur chercher du lait. »"
+    },
+    {
+        mot: "laveuse",
+        type: "nom féminin",
+        definition: "Machine à laver.",
+        signification: "Lave-linge.",
+        contexte: "Électroménager.",
+        exemple: "« Mets ton linge dans la laveuse. »"
+    },
+    {
+        mot: "lumière",
+        type: "nom féminin",
+        definition: "Feu de circulation.",
+        signification: "Traffic light.",
+        contexte: "Circulation.",
+        exemple: "« Tourne à gauche à la lumière. »"
+    },
+    {
+        mot: "maringouin",
+        type: "nom masculin",
+        definition: "Moustique.",
+        signification: "Insecte piqueur.",
+        contexte: "Insecte.",
+        exemple: "« Les maringouins me mangent tout rond! »"
+    },
+    {
+        mot: "minoune",
+        type: "nom féminin",
+        definition: "Vieille voiture ou chatte.",
+        signification: "Auto en mauvais état ou animal.",
+        contexte: "Auto/Animal.",
+        exemple: "« Ma minoune veut pus partir. »"
+    },
+    {
+        mot: "mouche à feu",
+        type: "nom féminin",
+        definition: "Luciole.",
+        signification: "Insecte lumineux.",
+        contexte: "Insecte.",
+        exemple: "« Y'a des mouches à feu dans le champ. »"
+    },
+    {
+        mot: "mouffette",
+        type: "nom féminin",
+        definition: "Sconse, bête puante.",
+        signification: "Animal malodorant.",
+        contexte: "Faune.",
+        exemple: "« Une mouffette a arrosé le chien! »"
+    },
+    {
+        mot: "nanane",
+        type: "nom masculin",
+        definition: "Bonbon, friandise.",
+        signification: "Sucrerie.",
+        contexte: "Confiserie.",
+        exemple: "« Tu veux-tu des nananes? »"
+    },
+    {
+        mot: "pâte à dent",
+        type: "nom féminin",
+        definition: "Dentifrice.",
+        signification: "Pour se brosser les dents.",
+        contexte: "Hygiène.",
+        exemple: "« Y reste pus de pâte à dent. »"
+    },
+    {
+        mot: "piasse",
+        type: "nom féminin",
+        definition: "Dollar, piastre.",
+        signification: "Argent.",
+        contexte: "Finances.",
+        exemple: "« Ça coûte vingt piasses. »"
+    },
+    {
+        mot: "piton",
+        type: "nom masculin",
+        definition: "Bouton, interrupteur.",
+        signification: "Switch.",
+        contexte: "Électricité.",
+        exemple: "« Pèse sur le piton. »"
+    },
+    {
+        mot: "plogue",
+        type: "nom féminin",
+        definition: "Prise électrique, fiche.",
+        signification: "De l'anglais 'plug'.",
+        contexte: "Électricité.",
+        exemple: "« Branche la plogue. »"
+    },
+    {
+        mot: "poêle",
+        type: "nom masculin",
+        definition: "Cuisinière.",
+        signification: "Appareil de cuisson.",
+        contexte: "Cuisine.",
+        exemple: "« Le souper est sur le poêle. »"
+    },
+    {
+        mot: "poudrerie",
+        type: "nom féminin",
+        definition: "Tempête de neige avec vent.",
+        signification: "Blizzard léger.",
+        contexte: "Météo.",
+        exemple: "« Y'a de la poudrerie sur l'autoroute. »"
+    },
+    {
+        mot: "sécheuse",
+        type: "nom féminin",
+        definition: "Sèche-linge.",
+        signification: "Pour sécher le linge.",
+        contexte: "Électroménager.",
+        exemple: "« Mets le linge dans la sécheuse. »"
+    },
+    {
+        mot: "séraphin",
+        type: "nom masculin",
+        definition: "Personne très avare.",
+        signification: "D'après le personnage Séraphin Poudrier.",
+        contexte: "Insulte.",
+        exemple: "« T'es un vrai séraphin! »"
+    },
+    {
+        mot: "slush",
+        type: "nom féminin",
+        definition: "Neige fondante sale.",
+        signification: "Gadoue.",
+        contexte: "Météo.",
+        exemple: "« Y'a de la slush partout. »"
+    },
+    {
+        mot: "tivi",
+        type: "nom masculin",
+        definition: "Télévision.",
+        signification: "TV.",
+        contexte: "Électronique.",
+        exemple: "« Ouvre le tivi. »"
+    },
+    {
+        mot: "tuque",
+        type: "nom féminin",
+        definition: "Bonnet d'hiver.",
+        signification: "Chapeau chaud.",
+        contexte: "Vêtement.",
+        exemple: "« Mets ta tuque, y fait frette! »"
+    },
+    {
+        mot: "vidanges",
+        type: "nom féminin pluriel",
+        definition: "Poubelles, ordures.",
+        signification: "Déchets.",
+        contexte: "Déchet.",
+        exemple: "« Sors les vidanges. »"
+    },
+    {
+        mot: "vire-capot",
+        type: "nom masculin",
+        definition: "Personne qui change d'avis ou de camp.",
+        signification: "Retourne sa veste.",
+        contexte: "Politique.",
+        exemple: "« C't'un maudit vire-capot! »"
+    },
+    
+    // --- EXPRESSIONS ADDITIONNELLES ---
+    {
+        mot: "à planche",
+        type: "expression",
+        definition: "À fond, à toute vitesse.",
+        signification: "Au maximum.",
+        contexte: "Intensité.",
+        exemple: "« Y roule à planche! »"
+    },
+    {
+        mot: "à terre",
+        type: "expression",
+        definition: "Épuisé, fatigué.",
+        signification: "Sans énergie.",
+        contexte: "Fatigue.",
+        exemple: "« Chus à terre après cette journée-là. »"
+    },
+    {
+        mot: "attache ta tuque",
+        type: "expression",
+        definition: "Prépare-toi, ça va brasser.",
+        signification: "Attention, ça va être intense.",
+        contexte: "Avertissement.",
+        exemple: "« Attache ta tuque, ça va décoller! »"
+    },
+    {
+        mot: "avoir de l'eau dans la cave",
+        type: "expression",
+        definition: "Avoir le pantalon trop court.",
+        signification: "Pantalon qui montre les chevilles.",
+        contexte: "Vêtement.",
+        exemple: "« T'as de l'eau dans la cave! »"
+    },
+    {
+        mot: "avoir des bibittes",
+        type: "expression",
+        definition: "Avoir des problèmes psychologiques.",
+        signification: "Être un peu dérangé.",
+        contexte: "Psychologie.",
+        exemple: "« Y'a des bibittes, lui. »"
+    },
+    {
+        mot: "avoir du front tout le tour de la tête",
+        type: "expression",
+        definition: "Être très audacieux, effronté.",
+        signification: "Avoir du culot.",
+        contexte: "Caractère.",
+        exemple: "« T'as du front tout le tour de la tête! »"
+    },
+    {
+        mot: "avoir la chienne",
+        type: "expression",
+        definition: "Avoir peur.",
+        signification: "Être effrayé.",
+        contexte: "Peur.",
+        exemple: "« J'ai la chienne de parler en public. »"
+    },
+    {
+        mot: "avoir la guedille au nez",
+        type: "expression",
+        definition: "Avoir la morve qui coule.",
+        signification: "Nez qui coule.",
+        contexte: "Santé.",
+        exemple: "« Mouche-toi, t'as la guedille au nez. »"
+    },
+    {
+        mot: "avoir le cœur sur la main",
+        type: "expression",
+        definition: "Être très généreux.",
+        signification: "Personne charitable.",
+        contexte: "Générosité.",
+        exemple: "« A l'a le cœur sur la main. »"
+    },
+    {
+        mot: "avoir les deux pieds dans la même bottine",
+        type: "expression",
+        definition: "Être maladroit, pas dégourdi.",
+        signification: "Empêtré.",
+        contexte: "Maladresse.",
+        exemple: "« Y'a les deux pieds dans la même bottine. »"
+    },
+    {
+        mot: "avoir les yeux dans le même trou",
+        type: "expression",
+        definition: "Être très fatigué ou saoul.",
+        signification: "Yeux qui louchent de fatigue.",
+        contexte: "Fatigue.",
+        exemple: "« T'as les yeux dans le même trou! »"
+    },
+    {
+        mot: "c'est de valeur",
+        type: "expression",
+        definition: "C'est dommage.",
+        signification: "C'est regrettable.",
+        contexte: "Regret.",
+        exemple: "« C'est de valeur qu'y pleuve. »"
+    },
+    {
+        mot: "câline de bine",
+        type: "expression",
+        definition: "Exclamation de surprise.",
+        signification: "Forme atténuée.",
+        contexte: "Surprise.",
+        exemple: "« Câline de bine, t'as-tu vu ça! »"
+    },
+    {
+        mot: "cogner des clous",
+        type: "expression",
+        definition: "S'endormir, somnoler.",
+        signification: "Piquer du nez.",
+        contexte: "Fatigue.",
+        exemple: "« Y cogne des clous devant la tivi. »"
+    },
+    {
+        mot: "comme un coq l'fun",
+        type: "expression",
+        definition: "Très content, excité.",
+        signification: "De bonne humeur.",
+        contexte: "Bonheur.",
+        exemple: "« Y'est comme un coq l'fun! »"
+    },
+    {
+        mot: "de même",
+        type: "expression",
+        definition: "Comme ça, de cette façon.",
+        signification: "De cette manière.",
+        contexte: "Explication.",
+        exemple: "« C'est arrivé de même. »"
+    },
+    {
+        mot: "donner son quatre pour cent",
+        type: "expression",
+        definition: "Donner son opinion sans retenue.",
+        signification: "Dire ce qu'on pense.",
+        contexte: "Opinion.",
+        exemple: "« J'y ai donné mon quatre pour cent! »"
+    },
+    {
+        mot: "être assis sur son steak",
+        type: "expression",
+        definition: "Ne rien faire, être paresseux.",
+        signification: "Rester inactif.",
+        contexte: "Paresse.",
+        exemple: "« Arrête d'être assis sur ton steak! »"
+    },
+    {
+        mot: "être dans la dèche",
+        type: "expression",
+        definition: "Être sans argent.",
+        signification: "Être fauché.",
+        contexte: "Finances.",
+        exemple: "« Chus dans la dèche. »"
+    },
+    {
+        mot: "être dans la lune",
+        type: "expression",
+        definition: "Être distrait, rêveur.",
+        signification: "Ne pas être attentif.",
+        contexte: "Distraction.",
+        exemple: "« T'es dans la lune ou quoi? »"
+    },
+    {
+        mot: "être dans les patates",
+        type: "expression",
+        definition: "Se tromper complètement.",
+        signification: "Avoir tout faux.",
+        contexte: "Erreur.",
+        exemple: "« T'es dans les patates! »"
+    },
+    {
+        mot: "être su'l gros nerf",
+        type: "expression",
+        definition: "Être énervé, sur les nerfs.",
+        signification: "Très stressé.",
+        contexte: "Stress.",
+        exemple: "« Chus su'l gros nerf à matin. »"
+    },
+    {
+        mot: "faire du pouce",
+        type: "expression",
+        definition: "Faire de l'auto-stop.",
+        signification: "Demander un lift.",
+        contexte: "Transport.",
+        exemple: "« Y fait du pouce pour se rendre à Québec. »"
+    },
+    {
+        mot: "faire la baboune",
+        type: "expression",
+        definition: "Bouder, faire la moue.",
+        signification: "Être de mauvaise humeur.",
+        contexte: "Humeur.",
+        exemple: "« Fais pas la baboune! »"
+    },
+    {
+        mot: "faire patate",
+        type: "expression",
+        definition: "Échouer.",
+        signification: "Rater.",
+        contexte: "Échec.",
+        exemple: "« Mon projet a fait patate. »"
+    },
+    {
+        mot: "faire son frais",
+        type: "expression",
+        definition: "Être prétentieux.",
+        signification: "Se croire supérieur.",
+        contexte: "Arrogance.",
+        exemple: "« Fais pas ton frais! »"
+    },
+    {
+        mot: "lâche pas la patate",
+        type: "expression",
+        definition: "Continue, persévère.",
+        signification: "Ne lâche pas.",
+        contexte: "Encouragement.",
+        exemple: "« Lâche pas la patate, t'es capable! »"
+    },
+    {
+        mot: "ma grand-foi du bon Dieu",
+        type: "expression",
+        definition: "Expression de surprise ou affirmation.",
+        signification: "Je le jure.",
+        contexte: "Affirmation.",
+        exemple: "« Ma grand-foi du bon Dieu, c'est vrai! »"
+    },
+    {
+        mot: "manger ses bas",
+        type: "expression",
+        definition: "Être très nerveux ou jaloux.",
+        signification: "Ronger son frein.",
+        contexte: "Nervosité.",
+        exemple: "« Y mange ses bas à l'attendre. »"
+    },
+    {
+        mot: "mon œil",
+        type: "expression",
+        definition: "Expression d'incrédulité.",
+        signification: "Je n'y crois pas.",
+        contexte: "Doute.",
+        exemple: "« Y'est malade? Mon œil! »"
+    },
+    {
+        mot: "n'importe quoi",
+        type: "expression",
+        definition: "C'est ridicule, absurde.",
+        signification: "N'a pas de sens.",
+        contexte: "Critique.",
+        exemple: "« C'est n'importe quoi cette affaire-là! »"
+    },
+    {
+        mot: "ne pas avoir inventé le bouton à quatre trous",
+        type: "expression",
+        definition: "Ne pas être très intelligent.",
+        signification: "Pas brillant.",
+        contexte: "Insulte.",
+        exemple: "« Y'a pas inventé le bouton à quatre trous. »"
+    },
+    {
+        mot: "pas à peu près",
+        type: "expression",
+        definition: "Beaucoup, vraiment.",
+        signification: "Intensifie une affirmation.",
+        contexte: "Intensité.",
+        exemple: "« Y'est fatigué pas à peu près. »"
+    },
+    {
+        mot: "pas de trouble",
+        type: "expression",
+        definition: "Pas de problème.",
+        signification: "C'est correct.",
+        contexte: "Accord.",
+        exemple: "« Pas de trouble, j'men occupe. »"
+    },
+    {
+        mot: "pas pire",
+        type: "expression",
+        definition: "Assez bien, correct.",
+        signification: "Positif modéré.",
+        contexte: "Évaluation.",
+        exemple: "« Comment ça va? - Pas pire! »"
+    },
+    {
+        mot: "péter de la broue",
+        type: "expression",
+        definition: "Se vanter.",
+        signification: "Fanfaronner.",
+        contexte: "Vantardise.",
+        exemple: "« Y arrête pas de péter de la broue. »"
+    },
+    {
+        mot: "pogner les nerfs",
+        type: "expression",
+        definition: "S'énerver, perdre patience.",
+        signification: "Se mettre en colère.",
+        contexte: "Colère.",
+        exemple: "« J'ai pogné les nerfs! »"
+    },
+    {
+        mot: "prendre une débarque",
+        type: "expression",
+        definition: "Tomber, subir un échec.",
+        signification: "Chuter ou échouer.",
+        contexte: "Chute/Échec.",
+        exemple: "« Y'a pris une méchante débarque! »"
+    },
+    {
+        mot: "se faire passer un sapin",
+        type: "expression",
+        definition: "Se faire arnaquer.",
+        signification: "Être trompé.",
+        contexte: "Arnaque.",
+        exemple: "« Y s'est fait passer un sapin. »"
+    },
+    {
+        mot: "se grouiller le cul",
+        type: "expression",
+        definition: "Se dépêcher.",
+        signification: "Se bouger.",
+        contexte: "Rapidité.",
+        exemple: "« Grouille-toi le cul! »"
+    },
+    {
+        mot: "se peter la yeule",
+        type: "expression",
+        definition: "Tomber violemment.",
+        signification: "Se planter.",
+        contexte: "Chute.",
+        exemple: "« Y s'est pété la yeule en ski. »"
+    },
+    {
+        mot: "se tirer une bûche",
+        type: "expression",
+        definition: "S'asseoir, prendre une chaise.",
+        signification: "Prendre place.",
+        contexte: "Action.",
+        exemple: "« Tire-toi une bûche! »"
+    },
+    {
+        mot: "sentir le swing",
+        type: "expression",
+        definition: "Sentir mauvais, la transpiration.",
+        signification: "Puer.",
+        contexte: "Odeur.",
+        exemple: "« Tu sens le swing! »"
+    },
+    {
+        mot: "tombe en amour",
+        type: "expression",
+        definition: "Tomber amoureux.",
+        signification: "De l'anglais 'fall in love'.",
+        contexte: "Amour.",
+        exemple: "« Chus tombé en amour. »"
+    },
+    {
+        mot: "tourner les coins ronds",
+        type: "expression",
+        definition: "Bâcler le travail.",
+        signification: "Faire vite et mal.",
+        contexte: "Travail.",
+        exemple: "« Y tourne les coins ronds. »"
+    },
+    {
+        mot: "virer une brosse",
+        type: "expression",
+        definition: "Se saouler.",
+        signification: "Boire beaucoup.",
+        contexte: "Alcool.",
+        exemple: "« Y'a viré une brosse hier soir. »"
+    },
+    {
+        mot: "y'a pas de quoi fouetter un chat",
+        type: "expression",
+        definition: "Ce n'est pas grave.",
+        signification: "Pas important.",
+        contexte: "Relativisation.",
+        exemple: "« Y'a pas de quoi fouetter un chat. »"
+    },
+    
+    // --- ADJECTIFS ET NOMS ADDITIONNELS ---
+    {
+        mot: "accoté",
+        type: "adjectif",
+        definition: "En couple sans être marié.",
+        signification: "Concubinage.",
+        contexte: "Relation.",
+        exemple: "« Y sont accotés depuis 5 ans. »"
+    },
+    {
+        mot: "attoké",
+        type: "adjectif",
+        definition: "Bien habillé, élégant.",
+        signification: "Chic.",
+        contexte: "Apparence.",
+        exemple: "« T'es ben attoké à soir! »"
+    },
+    {
+        mot: "bardasseux",
+        type: "adjectif",
+        definition: "Agité, bruyant.",
+        signification: "Qui fait du bruit.",
+        contexte: "Bruit.",
+        exemple: "« Les enfants sont bardasseux. »"
+    },
+    {
+        mot: "bibittes",
+        type: "nom féminin pluriel",
+        definition: "Insectes, ou problèmes.",
+        signification: "Bestioles ou soucis.",
+        contexte: "Nature/Psychologie.",
+        exemple: "« Y'a des bibittes dans le jardin. »"
+    },
+    {
+        mot: "binne",
+        type: "nom féminin",
+        definition: "Fève au lard.",
+        signification: "Haricot.",
+        contexte: "Alimentation.",
+        exemple: "« Des binnes au lard. »"
+    },
+    {
+        mot: "blonde",
+        type: "nom féminin",
+        definition: "Petite amie, copine.",
+        signification: "Girlfriend.",
+        contexte: "Relation.",
+        exemple: "« C'est ma blonde. »"
+    },
+    {
+        mot: "bobo",
+        type: "nom masculin",
+        definition: "Petite blessure.",
+        signification: "Douleur légère.",
+        contexte: "Santé.",
+        exemple: "« T'as un bobo? »"
+    },
+    {
+        mot: "bottine",
+        type: "nom féminin",
+        definition: "Botte courte.",
+        signification: "Chaussure montante.",
+        contexte: "Chaussure.",
+        exemple: "« Mets tes bottines. »"
+    },
+    {
+        mot: "boucane",
+        type: "nom féminin",
+        definition: "Fumée.",
+        signification: "Vapeur de combustion.",
+        contexte: "Feu.",
+        exemple: "« Y'a de la boucane partout! »"
+    },
+    {
+        mot: "broche à foin",
+        type: "adjectif",
+        definition: "Mal fait, improvisé.",
+        signification: "Bâclé.",
+        contexte: "Qualité.",
+        exemple: "« C'est monté broche à foin. »"
+    },
+    {
+        mot: "chum",
+        type: "nom masculin",
+        definition: "Ami ou petit ami.",
+        signification: "Copain.",
+        contexte: "Relation.",
+        exemple: "« C'est mon chum. »"
     }
 ];
 
